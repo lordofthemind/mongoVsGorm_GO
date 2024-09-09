@@ -1,0 +1,16 @@
+.
+├── Changelog.md
+├── Makefile
+├── Readme.md
+├── config.yaml
+├── go.mod
+├── internals
+│   ├── repositories
+│   ├── types
+│   └── utils
+├── logs
+├── main.go
+├── pkgs
+└── tree.txt
+
+7 directories, 7 files
