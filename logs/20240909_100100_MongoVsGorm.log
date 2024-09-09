@@ -1,0 +1,1 @@
+2024/09/09 10:01:00.125159 main.go:205: Failed to connect to GORM DB: failed to connect to `host=localhost user=postgres database=MongoVsGorm_PGDB`: failed SASL auth (FATAL: password authentication failed for user "postgres" (SQLSTATE 28P01))

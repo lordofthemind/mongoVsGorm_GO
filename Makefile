@@ -36,11 +36,11 @@ rmvmgdb: ## Remove the MongoDB container
 # MongoDB database commands
 createdb_mongodb: strmgdb ## Create MongoDB database
 	@echo "Creating MongoDB database..."
-	docker exec -it $(MONGODB_CONTAINER_NAME) mongo --eval "use $(MONGODB_DB_NAME)"
+	docker exec -it $(MONGODB_CONTAINER_NAME) mongosh --eval "use $(MONGODB_DB_NAME)"
 
 dropdb_mongodb: strmgdb ## Drop MongoDB database
 	@echo "Dropping MongoDB database..."
-	docker exec -it $(MONGODB_CONTAINER_NAME) mongo --eval "db.getSiblingDB('$(MONGODB_DB_NAME)').dropDatabase()"
+	docker exec -it $(MONGODB_CONTAINER_NAME) mongosh --eval "db.getSiblingDB('$(MONGODB_DB_NAME)').dropDatabase()"
 
 # Docker PostgreSQL commands
 crtpgdb: ## Create and start the PostgreSQL container

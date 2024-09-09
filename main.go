@@ -199,13 +199,18 @@ func main() {
 	}
 	defer logFile.Close()
 
-	// Set up GORM database connection
-	gormDB, err := gorm.Open(postgres.Open("postgresql://postgres:postgresSqlcVsGormSecret@localhost:5434/SqlcVsGorm_GORM"), &gorm.Config{})
+	// Set up GORM database connection with the correct PostgreSQL settings
+	gormDB, err := gorm.Open(postgres.Open("postgresql://postgres:MongoVsGormSecret@localhost:5432/MongoVsGorm_PGDB"), &gorm.Config{})
 	if err != nil {
 		log.Fatalf("Failed to connect to GORM DB: %v", err)
 	}
 
-	// Auto migrate GORM schema
+	// Check and enable the UUID extension in PostgreSQL
+	err = pkgs.CheckAndEnableUUIDExtension(gormDB)
+	if err != nil {
+		log.Fatalf("Failed to check or enable UUID extension: %v", err)
+	}
+
 	err = gormDB.AutoMigrate(&types.Author{})
 	if err != nil {
 		log.Fatalf("Failed to migrate database schema: %v", err)
@@ -215,13 +220,13 @@ func main() {
 	gormRepo := repositories.NewGORMAuthorRepository(gormDB)
 
 	// Set up MongoDB connection
-	clientOptions := options.Client().ApplyURI("mongodb://localhost:27017")
+	clientOptions := options.Client().ApplyURI("mongodb://localhost:27017/")
 	client, err := mongo.Connect(context.Background(), clientOptions)
 	if err != nil {
 		log.Fatalf("Failed to connect to MongoDB: %v", err)
 	}
 	defer client.Disconnect(context.Background())
-	mongoDB := client.Database("MongoDB_Test")
+	mongoDB := client.Database("MongoVsGorm_MGDB")
 	mongoRepo := repositories.NewMongoAuthorRepository(mongoDB)
 
 	// Perform benchmarks using the repositories
