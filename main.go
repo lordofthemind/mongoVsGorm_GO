@@ -18,25 +18,19 @@ import (
 	"gorm.io/gorm"
 )
 
-// BenchmarkResult holds the result of a benchmark.
 type BenchmarkResult struct {
 	Repository string
 	Operation  string
 	Duration   time.Duration
 }
 
-// Create a map to keep track of used emails
 var usedEmails = map[string]bool{}
-
-// Create a map to store created author IDs
 var createdAuthorIDs = map[uuid.UUID]bool{}
 
-// createRandomAuthor generates a random author for testing.
 func createRandomAuthor(rng *rand.Rand) (string, string, string, *time.Time) {
 	name := fmt.Sprintf("Author%d", rng.Intn(1000))
 	bio := fmt.Sprintf("Bio%d", rng.Intn(1000))
 
-	// Generate a unique email
 	var email string
 	for {
 		email = fmt.Sprintf("author%d@example.com", rng.Intn(1000))
@@ -50,7 +44,6 @@ func createRandomAuthor(rng *rand.Rand) (string, string, string, *time.Time) {
 	return name, bio, email, &dateOfBirth
 }
 
-// benchmarkCreate runs the CreateAuthor benchmark.
 func benchmarkCreate(repo repositories.AuthorRepository, repoName string, count int, rng *rand.Rand) BenchmarkResult {
 	start := time.Now()
 	for i := 0; i < count; i++ {
@@ -59,24 +52,25 @@ func benchmarkCreate(repo repositories.AuthorRepository, repoName string, count 
 		if err != nil {
 			log.Fatalf("[%s] Failed to create author: %v", repoName, err)
 		}
-		createdAuthorIDs[id] = true // Store the created ID
+		log.Printf("[%s] Created author with ID: %v", repoName, id) // Log the created UUID
+		createdAuthorIDs[id] = true
 	}
 	return BenchmarkResult{Repository: repoName, Operation: "CreateAuthor", Duration: time.Since(start)}
 }
 
-// benchmarkGet runs the GetAuthor benchmark.
 func benchmarkGet(repo repositories.AuthorRepository, repoName string) BenchmarkResult {
 	start := time.Now()
-	for id := range createdAuthorIDs { // Use IDs that were created
+	for id := range createdAuthorIDs {
 		_, err := repo.GetAuthor(context.Background(), id)
 		if err != nil {
-			log.Fatalf("[%s] Failed to get author: %v", repoName, err)
+			log.Printf("[%s] Failed to get author (ID: %v): %v", repoName, id, err) // Handle missing records gracefully
+			continue
 		}
+		log.Printf("[%s] Retrieved author with ID: %v", repoName, id) // Log retrieved UUID
 	}
 	return BenchmarkResult{Repository: repoName, Operation: "GetAuthor", Duration: time.Since(start)}
 }
 
-// benchmarkList runs the ListAuthors benchmark.
 func benchmarkList(repo repositories.AuthorRepository, repoName string) BenchmarkResult {
 	start := time.Now()
 	_, err := repo.ListAuthors(context.Background())
@@ -86,32 +80,33 @@ func benchmarkList(repo repositories.AuthorRepository, repoName string) Benchmar
 	return BenchmarkResult{Repository: repoName, Operation: "ListAuthors", Duration: time.Since(start)}
 }
 
-// benchmarkDelete runs the DeleteAuthor benchmark.
 func benchmarkDelete(repo repositories.AuthorRepository, repoName string) BenchmarkResult {
 	start := time.Now()
-	for id := range createdAuthorIDs { // Use IDs that were created
+	for id := range createdAuthorIDs {
 		err := repo.DeleteAuthor(context.Background(), id)
 		if err != nil {
-			log.Fatalf("[%s] Failed to delete author: %v", repoName, err)
+			log.Printf("[%s] Failed to delete author (ID: %v): %v", repoName, id, err) // Handle missing records gracefully
+			continue
 		}
+		log.Printf("[%s] Deleted author with ID: %v", repoName, id) // Log deleted UUID
 	}
 	return BenchmarkResult{Repository: repoName, Operation: "DeleteAuthor", Duration: time.Since(start)}
 }
 
-// benchmarkUpdate runs the UpdateAuthor benchmark.
 func benchmarkUpdate(repo repositories.AuthorRepository, repoName string, rng *rand.Rand) BenchmarkResult {
 	start := time.Now()
-	for id := range createdAuthorIDs { // Use IDs that were created
+	for id := range createdAuthorIDs {
 		name, bio, email, dateOfBirth := createRandomAuthor(rng)
 		err := repo.UpdateAuthor(context.Background(), id, name, bio, email, dateOfBirth)
 		if err != nil {
-			log.Fatalf("[%s] Failed to update author: %v", repoName, err)
+			log.Printf("[%s] Failed to update author (ID: %v): %v", repoName, id, err) // Handle missing records gracefully
+			continue
 		}
+		log.Printf("[%s] Updated author with ID: %v", repoName, id) // Log updated UUID
 	}
 	return BenchmarkResult{Repository: repoName, Operation: "UpdateAuthor", Duration: time.Since(start)}
 }
 
-// benchmarkGetAuthorsByBirthdateRange runs the GetAuthorsByBirthdateRange benchmark.
 func benchmarkGetAuthorsByBirthdateRange(repo repositories.AuthorRepository, repoName string, startDate, endDate time.Time) BenchmarkResult {
 	start := time.Now()
 	_, err := repo.GetAuthorsByBirthdateRange(context.Background(), startDate, endDate)
@@ -122,23 +117,18 @@ func benchmarkGetAuthorsByBirthdateRange(repo repositories.AuthorRepository, rep
 }
 
 func performBenchmarks(mongoRepo, gormRepo repositories.AuthorRepository) {
-	// Define the number of test iterations
-	testCount := 100 // Adjust the count as needed for your testing
+	testCount := 100
 
-	// Create a new random generator with a seed
 	rng := rand.New(rand.NewSource(uint64(time.Now().UnixNano())))
 
-	// Create maps to store results for side-by-side comparison
 	results := map[string]map[string]BenchmarkResult{
 		"MongoDB": {},
 		"GORM":    {},
 	}
 
-	// Define date range for GetAuthorsByBirthdateRange
-	startDate := time.Now().AddDate(-5, 0, 0) // 5 years ago
+	startDate := time.Now().AddDate(-5, 0, 0)
 	endDate := time.Now()
 
-	// Run benchmarks for MongoDB repository
 	log.Println("Running benchmarks for MongoDB repository...")
 	results["MongoDB"]["CreateAuthor"] = benchmarkCreate(mongoRepo, "MongoDB", testCount, rng)
 	results["MongoDB"]["GetAuthor"] = benchmarkGet(mongoRepo, "MongoDB")
@@ -147,7 +137,6 @@ func performBenchmarks(mongoRepo, gormRepo repositories.AuthorRepository) {
 	results["MongoDB"]["UpdateAuthor"] = benchmarkUpdate(mongoRepo, "MongoDB", rng)
 	results["MongoDB"]["GetAuthorsByBirthdateRange"] = benchmarkGetAuthorsByBirthdateRange(mongoRepo, "MongoDB", startDate, endDate)
 
-	// Run benchmarks for GORM repository
 	log.Println("Running benchmarks for GORM repository...")
 	results["GORM"]["CreateAuthor"] = benchmarkCreate(gormRepo, "GORM", testCount, rng)
 	results["GORM"]["GetAuthor"] = benchmarkGet(gormRepo, "GORM")
@@ -156,7 +145,6 @@ func performBenchmarks(mongoRepo, gormRepo repositories.AuthorRepository) {
 	results["GORM"]["UpdateAuthor"] = benchmarkUpdate(gormRepo, "GORM", rng)
 	results["GORM"]["GetAuthorsByBirthdateRange"] = benchmarkGetAuthorsByBirthdateRange(gormRepo, "GORM", startDate, endDate)
 
-	// Log results side by side and determine the winner
 	var mongoTotal, gormTotal time.Duration
 	for operation := range results["MongoDB"] {
 		mongoDuration := results["MongoDB"][operation].Duration
@@ -166,7 +154,6 @@ func performBenchmarks(mongoRepo, gormRepo repositories.AuthorRepository) {
 		mongoTotal += mongoDuration
 		gormTotal += gormDuration
 
-		// Determine winner for each operation
 		winner := "MongoDB"
 		if gormDuration < mongoDuration {
 			winner = "GORM"
@@ -180,7 +167,6 @@ func performBenchmarks(mongoRepo, gormRepo repositories.AuthorRepository) {
 		log.Println()
 	}
 
-	// Summarize overall results
 	log.Println("Summary:")
 	log.Printf("  Total MongoDB Time: %v\n", mongoTotal)
 	log.Printf("  Total GORM Time   : %v\n", gormTotal)
@@ -192,20 +178,17 @@ func performBenchmarks(mongoRepo, gormRepo repositories.AuthorRepository) {
 }
 
 func main() {
-	// Set up logging
 	logFile, err := pkgs.SetUpLogger("MongoVsGorm.log")
 	if err != nil {
 		log.Fatalf("Failed to set up logger: %v", err)
 	}
 	defer logFile.Close()
 
-	// Set up GORM database connection with the correct PostgreSQL settings
 	gormDB, err := gorm.Open(postgres.Open("postgresql://postgres:MongoVsGormSecret@localhost:5432/MongoVsGorm_PGDB"), &gorm.Config{})
 	if err != nil {
 		log.Fatalf("Failed to connect to GORM DB: %v", err)
 	}
 
-	// Check and enable the UUID extension in PostgreSQL
 	err = pkgs.CheckAndEnableUUIDExtension(gormDB)
 	if err != nil {
 		log.Fatalf("Failed to check or enable UUID extension: %v", err)
@@ -216,10 +199,8 @@ func main() {
 		log.Fatalf("Failed to migrate database schema: %v", err)
 	}
 
-	// Create the GORM repository
 	gormRepo := repositories.NewGORMAuthorRepository(gormDB)
 
-	// Set up MongoDB connection
 	clientOptions := options.Client().ApplyURI("mongodb://localhost:27017/")
 	client, err := mongo.Connect(context.Background(), clientOptions)
 	if err != nil {
@@ -229,6 +210,5 @@ func main() {
 	mongoDB := client.Database("MongoVsGorm_MGDB")
 	mongoRepo := repositories.NewMongoAuthorRepository(mongoDB)
 
-	// Perform benchmarks using the repositories
 	performBenchmarks(mongoRepo, gormRepo)
 }

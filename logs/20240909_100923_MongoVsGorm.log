@@ -1,0 +1,1143 @@
+2024/09/09 10:09:23.928870 UUID_Extension.go:33: uuid-ossp extension is already enabled
+2024/09/09 10:09:24.009310 main.go:132: Running benchmarks for MongoDB repository...
+2024/09/09 10:09:24.013360 main.go:55: [MongoDB] Created author with ID: 4e1aed80-dfab-4783-b0bc-cb81cd708801
+2024/09/09 10:09:24.014098 main.go:55: [MongoDB] Created author with ID: c2fe12a2-f0ee-4876-98b5-b64b1e342916
+2024/09/09 10:09:24.014792 main.go:55: [MongoDB] Created author with ID: 16fca503-b079-4f25-a669-a90efeee2a85
+2024/09/09 10:09:24.015529 main.go:55: [MongoDB] Created author with ID: 31fe5d2e-1ccb-479a-97b9-bf920db8e2dc
+2024/09/09 10:09:24.016283 main.go:55: [MongoDB] Created author with ID: a0cece9f-1271-43e2-a784-5012d4696024
+2024/09/09 10:09:24.017223 main.go:55: [MongoDB] Created author with ID: 5591f555-4662-45ec-bb12-9eb7d49cc7e9
+2024/09/09 10:09:24.018053 main.go:55: [MongoDB] Created author with ID: 3d30ea31-ae14-4962-bd78-32cc93cfa99b
+2024/09/09 10:09:24.018856 main.go:55: [MongoDB] Created author with ID: e5fe3081-c668-45f5-bbc7-95720d7f6017
+2024/09/09 10:09:24.019586 main.go:55: [MongoDB] Created author with ID: 44199ad7-8e4d-4665-b276-3f567e18fc40
+2024/09/09 10:09:24.020348 main.go:55: [MongoDB] Created author with ID: 987f9fd8-2822-4c41-b0b8-64951447b317
+2024/09/09 10:09:24.021350 main.go:55: [MongoDB] Created author with ID: 4f0b403f-ec71-4f10-b51b-1e285b390dfe
+2024/09/09 10:09:24.022314 main.go:55: [MongoDB] Created author with ID: 1bdfca67-f03c-48d1-bc5c-bd2dcd84bdb3
+2024/09/09 10:09:24.023259 main.go:55: [MongoDB] Created author with ID: f85d9307-84ac-4bfa-8ed3-390ff9ba1dfc
+2024/09/09 10:09:24.024356 main.go:55: [MongoDB] Created author with ID: 5a3be7a7-19bb-41f7-8a35-925603f2fe51
+2024/09/09 10:09:24.025439 main.go:55: [MongoDB] Created author with ID: 753051f8-7dd2-4e31-849e-106085ea1190
+2024/09/09 10:09:24.026348 main.go:55: [MongoDB] Created author with ID: 0ae90919-e1f9-49e2-8604-285f1d3ef932
+2024/09/09 10:09:24.027329 main.go:55: [MongoDB] Created author with ID: ea5947e1-d354-4bfa-b107-bcb2ac390afa
+2024/09/09 10:09:24.028232 main.go:55: [MongoDB] Created author with ID: 26d1d650-ecd8-40d5-a9d5-677b654ebdbe
+2024/09/09 10:09:24.029162 main.go:55: [MongoDB] Created author with ID: 7182177d-64f7-471d-ab54-2a621cfc6f79
+2024/09/09 10:09:24.030151 main.go:55: [MongoDB] Created author with ID: d0c02b3e-2df9-44d5-b1cc-c737d1d60114
+2024/09/09 10:09:24.030970 main.go:55: [MongoDB] Created author with ID: 01e7c3d3-febf-4436-84ae-c9f52dfb9a4e
+2024/09/09 10:09:24.031870 main.go:55: [MongoDB] Created author with ID: 274295ba-d840-48c6-ac89-c850597bbe82
+2024/09/09 10:09:24.032853 main.go:55: [MongoDB] Created author with ID: e4a488d7-82fb-4ecc-a46e-6961e71f6986
+2024/09/09 10:09:24.033844 main.go:55: [MongoDB] Created author with ID: d6f79c23-9469-4a28-b764-de2cbf34211f
+2024/09/09 10:09:24.034869 main.go:55: [MongoDB] Created author with ID: 5b3f65b2-a73c-4e5f-a391-4693f412f8a4
+2024/09/09 10:09:24.035939 main.go:55: [MongoDB] Created author with ID: 1e5db2c8-9720-4421-baa6-2802d15e5f76
+2024/09/09 10:09:24.036940 main.go:55: [MongoDB] Created author with ID: f08af1bc-09f0-4933-81e6-ffb5723ea1f4
+2024/09/09 10:09:24.037774 main.go:55: [MongoDB] Created author with ID: 50a38277-fb3b-4ce5-88b2-7f82b5a77de4
+2024/09/09 10:09:24.038854 main.go:55: [MongoDB] Created author with ID: 0e265418-6810-41cf-b629-6c32f2790a55
+2024/09/09 10:09:24.039879 main.go:55: [MongoDB] Created author with ID: 0584a294-064b-4076-bea7-794eed04233e
+2024/09/09 10:09:24.040782 main.go:55: [MongoDB] Created author with ID: 22125341-6a09-4ef1-8974-26f400915f14
+2024/09/09 10:09:24.041619 main.go:55: [MongoDB] Created author with ID: ef5ddbb4-60c4-4818-aec4-117776af3497
+2024/09/09 10:09:24.042367 main.go:55: [MongoDB] Created author with ID: fde6f181-c2af-4d32-9f23-27cdeec64e87
+2024/09/09 10:09:24.043340 main.go:55: [MongoDB] Created author with ID: 6ee18f92-0dac-443f-bb5f-dc78a6c7bdc3
+2024/09/09 10:09:24.044394 main.go:55: [MongoDB] Created author with ID: 7e11f061-d97d-45a2-aa9e-d37bba3690f2
+2024/09/09 10:09:24.045356 main.go:55: [MongoDB] Created author with ID: 9dbafff1-c6c7-4d63-8551-853ed16ea04d
+2024/09/09 10:09:24.046191 main.go:55: [MongoDB] Created author with ID: 1b746b4d-b6f6-4231-8dd4-32ce63528ea8
+2024/09/09 10:09:24.046974 main.go:55: [MongoDB] Created author with ID: 19c09fcc-b566-47f8-8ce3-1b7eb286351e
+2024/09/09 10:09:24.047843 main.go:55: [MongoDB] Created author with ID: 8245739e-594e-432b-8bef-89adc659177f
+2024/09/09 10:09:24.048830 main.go:55: [MongoDB] Created author with ID: f651c7dc-d6f7-46f1-adb4-80a41cbe1ff3
+2024/09/09 10:09:24.049842 main.go:55: [MongoDB] Created author with ID: 8fe21019-1420-4aca-81da-ff9c232789a9
+2024/09/09 10:09:24.050941 main.go:55: [MongoDB] Created author with ID: 1da3a93c-6ac0-498f-9b83-9d2647b3d14c
+2024/09/09 10:09:24.051933 main.go:55: [MongoDB] Created author with ID: cab6a021-34e9-4502-929f-a9b5e1229b20
+2024/09/09 10:09:24.052888 main.go:55: [MongoDB] Created author with ID: 5c70987e-5270-473e-bf05-d78d6532a765
+2024/09/09 10:09:24.053844 main.go:55: [MongoDB] Created author with ID: 1e64ec84-e46e-490f-ad6a-add494d0bfb3
+2024/09/09 10:09:24.054838 main.go:55: [MongoDB] Created author with ID: 1989e2ea-f06d-47d6-a0ff-40ff9b839ea7
+2024/09/09 10:09:24.055771 main.go:55: [MongoDB] Created author with ID: 35ba6d75-d227-4743-854d-67f8e19231c1
+2024/09/09 10:09:24.056754 main.go:55: [MongoDB] Created author with ID: 1cae75b1-dcf1-41cf-aa89-8da72b0620f8
+2024/09/09 10:09:24.057519 main.go:55: [MongoDB] Created author with ID: 511c42b0-5210-46f1-a046-4cf5ed18cabb
+2024/09/09 10:09:24.058262 main.go:55: [MongoDB] Created author with ID: 92c6de5d-5275-471b-b7aa-ee88336a78f6
+2024/09/09 10:09:24.059254 main.go:55: [MongoDB] Created author with ID: f7fa7fc6-e1f6-4c59-af17-7ea23afcd317
+2024/09/09 10:09:24.060058 main.go:55: [MongoDB] Created author with ID: f0d8f926-5679-4019-af7f-9b19dc67a160
+2024/09/09 10:09:24.061099 main.go:55: [MongoDB] Created author with ID: 8c01c62b-1697-46a7-930f-56cdfbba6bdb
+2024/09/09 10:09:24.062061 main.go:55: [MongoDB] Created author with ID: 6a9acaa2-2170-415d-a4ad-4aedfc369978
+2024/09/09 10:09:24.062921 main.go:55: [MongoDB] Created author with ID: 936362dd-f64d-4384-a4a5-6e51f909513e
+2024/09/09 10:09:24.063738 main.go:55: [MongoDB] Created author with ID: 948a8a16-84a7-462a-b6c1-9b136fe671c1
+2024/09/09 10:09:24.064640 main.go:55: [MongoDB] Created author with ID: af9086fb-3ffa-4d67-b260-43e4cdc40c6e
+2024/09/09 10:09:24.065716 main.go:55: [MongoDB] Created author with ID: 1df1aeb0-1280-4a58-a642-2de24126fadb
+2024/09/09 10:09:24.066743 main.go:55: [MongoDB] Created author with ID: 812519af-578b-4551-b87c-3ca65e17d71a
+2024/09/09 10:09:24.067879 main.go:55: [MongoDB] Created author with ID: e6bff0e4-75df-49a2-b4d6-8690e6abb6c7
+2024/09/09 10:09:24.069031 main.go:55: [MongoDB] Created author with ID: fda923a5-19f2-48ef-91dd-549ce6180be8
+2024/09/09 10:09:24.069966 main.go:55: [MongoDB] Created author with ID: 7e63e232-6501-4b5d-9622-7eccff236877
+2024/09/09 10:09:24.070858 main.go:55: [MongoDB] Created author with ID: 55d3e8c8-f907-4304-9ddf-e594e0bf4147
+2024/09/09 10:09:24.071676 main.go:55: [MongoDB] Created author with ID: b2b25ada-167f-4e3f-af67-f0be01d85deb
+2024/09/09 10:09:24.072704 main.go:55: [MongoDB] Created author with ID: 19d6854e-585d-4e3d-9530-8a47856cb2d6
+2024/09/09 10:09:24.073781 main.go:55: [MongoDB] Created author with ID: 698e4109-0c3d-4203-8452-edf80e91bb5a
+2024/09/09 10:09:24.074676 main.go:55: [MongoDB] Created author with ID: bc110354-fd50-4130-8475-16ba608f0fe5
+2024/09/09 10:09:24.075764 main.go:55: [MongoDB] Created author with ID: 5e4d62c1-dc85-4548-a31b-b76d98e6512c
+2024/09/09 10:09:24.076770 main.go:55: [MongoDB] Created author with ID: 0ed1629c-8034-4fd9-895f-c44587f5c905
+2024/09/09 10:09:24.077616 main.go:55: [MongoDB] Created author with ID: 56c7a99e-ae63-4c11-895a-6f99afd369a0
+2024/09/09 10:09:24.078661 main.go:55: [MongoDB] Created author with ID: 57763f36-3f92-4285-a606-ff84ac206476
+2024/09/09 10:09:24.079643 main.go:55: [MongoDB] Created author with ID: 70059c5d-c5a2-47e5-b977-52f0a9d17326
+2024/09/09 10:09:24.080644 main.go:55: [MongoDB] Created author with ID: 0ed6638a-8024-400d-83e2-7bd5d240e710
+2024/09/09 10:09:24.081734 main.go:55: [MongoDB] Created author with ID: 2f91909a-2e4d-4649-9867-1fe8e66356bf
+2024/09/09 10:09:24.082888 main.go:55: [MongoDB] Created author with ID: a7179ea1-6a26-48c4-8894-5dc78a7619f9
+2024/09/09 10:09:24.083935 main.go:55: [MongoDB] Created author with ID: 5136134e-3f4b-4d51-87a3-61b275ae636c
+2024/09/09 10:09:24.085103 main.go:55: [MongoDB] Created author with ID: 94a4e65d-fdfa-457d-85f1-f8eedf6e9acc
+2024/09/09 10:09:24.086135 main.go:55: [MongoDB] Created author with ID: 0be6604e-a460-478c-aadf-2e1597e1d54c
+2024/09/09 10:09:24.087066 main.go:55: [MongoDB] Created author with ID: 6e124317-9080-4902-a588-2da1a3fcc291
+2024/09/09 10:09:24.087898 main.go:55: [MongoDB] Created author with ID: ddbd6cab-47d8-4cde-b562-31f407fb983a
+2024/09/09 10:09:24.088811 main.go:55: [MongoDB] Created author with ID: 31341472-fa56-42c3-a396-b99fcbf851bd
+2024/09/09 10:09:24.089721 main.go:55: [MongoDB] Created author with ID: 0efeff20-21a1-4b8f-b269-486da02479ca
+2024/09/09 10:09:24.090700 main.go:55: [MongoDB] Created author with ID: dd32c628-b08e-433b-b387-d0122823826c
+2024/09/09 10:09:24.091696 main.go:55: [MongoDB] Created author with ID: 4d74c41b-ae46-4432-95d9-78c5da26753a
+2024/09/09 10:09:24.092547 main.go:55: [MongoDB] Created author with ID: b429e553-d85b-4488-9b72-0dced39d639b
+2024/09/09 10:09:24.093428 main.go:55: [MongoDB] Created author with ID: 48c661ed-e13e-4fbf-94a3-3f5e18b55ec2
+2024/09/09 10:09:24.094292 main.go:55: [MongoDB] Created author with ID: f570f7dc-a56e-4b31-80a0-fd44fe4073ae
+2024/09/09 10:09:24.095223 main.go:55: [MongoDB] Created author with ID: 60bbd20c-049b-4920-a509-40747db87a6b
+2024/09/09 10:09:24.096079 main.go:55: [MongoDB] Created author with ID: 1c54ca52-fc2e-4983-b218-28f118580e58
+2024/09/09 10:09:24.097254 main.go:55: [MongoDB] Created author with ID: 97657d9b-2f15-4e93-80fd-1da9feca663b
+2024/09/09 10:09:24.098391 main.go:55: [MongoDB] Created author with ID: 738b0c25-019d-49c4-a1ce-775b9b8af0dc
+2024/09/09 10:09:24.099666 main.go:55: [MongoDB] Created author with ID: ae402cda-b175-44ba-9210-ea2a78cc523c
+2024/09/09 10:09:24.100735 main.go:55: [MongoDB] Created author with ID: a7478f57-8d28-48d2-abeb-7b729535a9aa
+2024/09/09 10:09:24.101570 main.go:55: [MongoDB] Created author with ID: dd3f702f-7dd9-46aa-81ef-fb41fd648d8f
+2024/09/09 10:09:24.102686 main.go:55: [MongoDB] Created author with ID: fc8a369b-24d2-48eb-90e3-dc4d29621ade
+2024/09/09 10:09:24.103820 main.go:55: [MongoDB] Created author with ID: 12c5674a-7833-4a06-a807-861ff16f41e3
+2024/09/09 10:09:24.104808 main.go:55: [MongoDB] Created author with ID: 5ccde8f0-44eb-4689-a6c1-6578aaffd623
+2024/09/09 10:09:24.105832 main.go:55: [MongoDB] Created author with ID: 9a7c75e0-9cef-4c67-94d0-340bbd11154d
+2024/09/09 10:09:24.106957 main.go:55: [MongoDB] Created author with ID: 001633db-ae1b-4c76-ab82-d56173b1a0ce
+2024/09/09 10:09:24.108166 main.go:55: [MongoDB] Created author with ID: d13891db-ef67-4504-9fba-6ee45910f6dc
+2024/09/09 10:09:24.109517 main.go:69: [MongoDB] Retrieved author with ID: 2f91909a-2e4d-4649-9867-1fe8e66356bf
+2024/09/09 10:09:24.110797 main.go:69: [MongoDB] Retrieved author with ID: b429e553-d85b-4488-9b72-0dced39d639b
+2024/09/09 10:09:24.111778 main.go:69: [MongoDB] Retrieved author with ID: 26d1d650-ecd8-40d5-a9d5-677b654ebdbe
+2024/09/09 10:09:24.112648 main.go:69: [MongoDB] Retrieved author with ID: 511c42b0-5210-46f1-a046-4cf5ed18cabb
+2024/09/09 10:09:24.113806 main.go:69: [MongoDB] Retrieved author with ID: 0ed1629c-8034-4fd9-895f-c44587f5c905
+2024/09/09 10:09:24.115123 main.go:69: [MongoDB] Retrieved author with ID: 0be6604e-a460-478c-aadf-2e1597e1d54c
+2024/09/09 10:09:24.116175 main.go:69: [MongoDB] Retrieved author with ID: dd32c628-b08e-433b-b387-d0122823826c
+2024/09/09 10:09:24.117207 main.go:69: [MongoDB] Retrieved author with ID: 1cae75b1-dcf1-41cf-aa89-8da72b0620f8
+2024/09/09 10:09:24.118046 main.go:69: [MongoDB] Retrieved author with ID: f7fa7fc6-e1f6-4c59-af17-7ea23afcd317
+2024/09/09 10:09:24.119001 main.go:69: [MongoDB] Retrieved author with ID: b2b25ada-167f-4e3f-af67-f0be01d85deb
+2024/09/09 10:09:24.120037 main.go:69: [MongoDB] Retrieved author with ID: 4f0b403f-ec71-4f10-b51b-1e285b390dfe
+2024/09/09 10:09:24.121105 main.go:69: [MongoDB] Retrieved author with ID: 5a3be7a7-19bb-41f7-8a35-925603f2fe51
+2024/09/09 10:09:24.122111 main.go:69: [MongoDB] Retrieved author with ID: dd3f702f-7dd9-46aa-81ef-fb41fd648d8f
+2024/09/09 10:09:24.123189 main.go:69: [MongoDB] Retrieved author with ID: 5b3f65b2-a73c-4e5f-a391-4693f412f8a4
+2024/09/09 10:09:24.124290 main.go:69: [MongoDB] Retrieved author with ID: 0584a294-064b-4076-bea7-794eed04233e
+2024/09/09 10:09:24.125294 main.go:69: [MongoDB] Retrieved author with ID: 19d6854e-585d-4e3d-9530-8a47856cb2d6
+2024/09/09 10:09:24.126415 main.go:69: [MongoDB] Retrieved author with ID: e5fe3081-c668-45f5-bbc7-95720d7f6017
+2024/09/09 10:09:24.127361 main.go:69: [MongoDB] Retrieved author with ID: f85d9307-84ac-4bfa-8ed3-390ff9ba1dfc
+2024/09/09 10:09:24.128341 main.go:69: [MongoDB] Retrieved author with ID: d6f79c23-9469-4a28-b764-de2cbf34211f
+2024/09/09 10:09:24.129534 main.go:69: [MongoDB] Retrieved author with ID: fda923a5-19f2-48ef-91dd-549ce6180be8
+2024/09/09 10:09:24.130574 main.go:69: [MongoDB] Retrieved author with ID: 0ed6638a-8024-400d-83e2-7bd5d240e710
+2024/09/09 10:09:24.131557 main.go:69: [MongoDB] Retrieved author with ID: 6e124317-9080-4902-a588-2da1a3fcc291
+2024/09/09 10:09:24.132622 main.go:69: [MongoDB] Retrieved author with ID: a7478f57-8d28-48d2-abeb-7b729535a9aa
+2024/09/09 10:09:24.133597 main.go:69: [MongoDB] Retrieved author with ID: 16fca503-b079-4f25-a669-a90efeee2a85
+2024/09/09 10:09:24.134478 main.go:69: [MongoDB] Retrieved author with ID: 44199ad7-8e4d-4665-b276-3f567e18fc40
+2024/09/09 10:09:24.135216 main.go:69: [MongoDB] Retrieved author with ID: 1b746b4d-b6f6-4231-8dd4-32ce63528ea8
+2024/09/09 10:09:24.135968 main.go:69: [MongoDB] Retrieved author with ID: 812519af-578b-4551-b87c-3ca65e17d71a
+2024/09/09 10:09:24.138151 main.go:69: [MongoDB] Retrieved author with ID: 7182177d-64f7-471d-ab54-2a621cfc6f79
+2024/09/09 10:09:24.140265 main.go:69: [MongoDB] Retrieved author with ID: 22125341-6a09-4ef1-8974-26f400915f14
+2024/09/09 10:09:24.141351 main.go:69: [MongoDB] Retrieved author with ID: 1e64ec84-e46e-490f-ad6a-add494d0bfb3
+2024/09/09 10:09:24.142645 main.go:69: [MongoDB] Retrieved author with ID: fde6f181-c2af-4d32-9f23-27cdeec64e87
+2024/09/09 10:09:24.143751 main.go:69: [MongoDB] Retrieved author with ID: 7e11f061-d97d-45a2-aa9e-d37bba3690f2
+2024/09/09 10:09:24.144760 main.go:69: [MongoDB] Retrieved author with ID: 9dbafff1-c6c7-4d63-8551-853ed16ea04d
+2024/09/09 10:09:24.145764 main.go:69: [MongoDB] Retrieved author with ID: bc110354-fd50-4130-8475-16ba608f0fe5
+2024/09/09 10:09:24.146830 main.go:69: [MongoDB] Retrieved author with ID: 1bdfca67-f03c-48d1-bc5c-bd2dcd84bdb3
+2024/09/09 10:09:24.148041 main.go:69: [MongoDB] Retrieved author with ID: ea5947e1-d354-4bfa-b107-bcb2ac390afa
+2024/09/09 10:09:24.148823 main.go:69: [MongoDB] Retrieved author with ID: ef5ddbb4-60c4-4818-aec4-117776af3497
+2024/09/09 10:09:24.149894 main.go:69: [MongoDB] Retrieved author with ID: 7e63e232-6501-4b5d-9622-7eccff236877
+2024/09/09 10:09:24.150930 main.go:69: [MongoDB] Retrieved author with ID: 5e4d62c1-dc85-4548-a31b-b76d98e6512c
+2024/09/09 10:09:24.151963 main.go:69: [MongoDB] Retrieved author with ID: f570f7dc-a56e-4b31-80a0-fd44fe4073ae
+2024/09/09 10:09:24.152884 main.go:69: [MongoDB] Retrieved author with ID: 1c54ca52-fc2e-4983-b218-28f118580e58
+2024/09/09 10:09:24.153849 main.go:69: [MongoDB] Retrieved author with ID: 50a38277-fb3b-4ce5-88b2-7f82b5a77de4
+2024/09/09 10:09:24.154883 main.go:69: [MongoDB] Retrieved author with ID: 8c01c62b-1697-46a7-930f-56cdfbba6bdb
+2024/09/09 10:09:24.156258 main.go:69: [MongoDB] Retrieved author with ID: af9086fb-3ffa-4d67-b260-43e4cdc40c6e
+2024/09/09 10:09:24.157221 main.go:69: [MongoDB] Retrieved author with ID: 948a8a16-84a7-462a-b6c1-9b136fe671c1
+2024/09/09 10:09:24.158382 main.go:69: [MongoDB] Retrieved author with ID: 0efeff20-21a1-4b8f-b269-486da02479ca
+2024/09/09 10:09:24.159315 main.go:69: [MongoDB] Retrieved author with ID: 48c661ed-e13e-4fbf-94a3-3f5e18b55ec2
+2024/09/09 10:09:24.160467 main.go:69: [MongoDB] Retrieved author with ID: 97657d9b-2f15-4e93-80fd-1da9feca663b
+2024/09/09 10:09:24.161746 main.go:69: [MongoDB] Retrieved author with ID: 12c5674a-7833-4a06-a807-861ff16f41e3
+2024/09/09 10:09:24.162781 main.go:69: [MongoDB] Retrieved author with ID: c2fe12a2-f0ee-4876-98b5-b64b1e342916
+2024/09/09 10:09:24.163794 main.go:69: [MongoDB] Retrieved author with ID: 753051f8-7dd2-4e31-849e-106085ea1190
+2024/09/09 10:09:24.164669 main.go:69: [MongoDB] Retrieved author with ID: 8245739e-594e-432b-8bef-89adc659177f
+2024/09/09 10:09:24.165549 main.go:69: [MongoDB] Retrieved author with ID: 9a7c75e0-9cef-4c67-94d0-340bbd11154d
+2024/09/09 10:09:24.166242 main.go:69: [MongoDB] Retrieved author with ID: d13891db-ef67-4504-9fba-6ee45910f6dc
+2024/09/09 10:09:24.166868 main.go:69: [MongoDB] Retrieved author with ID: 5591f555-4662-45ec-bb12-9eb7d49cc7e9
+2024/09/09 10:09:24.167558 main.go:69: [MongoDB] Retrieved author with ID: f651c7dc-d6f7-46f1-adb4-80a41cbe1ff3
+2024/09/09 10:09:24.168525 main.go:69: [MongoDB] Retrieved author with ID: 92c6de5d-5275-471b-b7aa-ee88336a78f6
+2024/09/09 10:09:24.169494 main.go:69: [MongoDB] Retrieved author with ID: 19c09fcc-b566-47f8-8ce3-1b7eb286351e
+2024/09/09 10:09:24.170447 main.go:69: [MongoDB] Retrieved author with ID: 8fe21019-1420-4aca-81da-ff9c232789a9
+2024/09/09 10:09:24.171360 main.go:69: [MongoDB] Retrieved author with ID: 1da3a93c-6ac0-498f-9b83-9d2647b3d14c
+2024/09/09 10:09:24.172099 main.go:69: [MongoDB] Retrieved author with ID: 936362dd-f64d-4384-a4a5-6e51f909513e
+2024/09/09 10:09:24.172922 main.go:69: [MongoDB] Retrieved author with ID: 55d3e8c8-f907-4304-9ddf-e594e0bf4147
+2024/09/09 10:09:24.173984 main.go:69: [MongoDB] Retrieved author with ID: 4e1aed80-dfab-4783-b0bc-cb81cd708801
+2024/09/09 10:09:24.175047 main.go:69: [MongoDB] Retrieved author with ID: e4a488d7-82fb-4ecc-a46e-6961e71f6986
+2024/09/09 10:09:24.176118 main.go:69: [MongoDB] Retrieved author with ID: f08af1bc-09f0-4933-81e6-ffb5723ea1f4
+2024/09/09 10:09:24.176951 main.go:69: [MongoDB] Retrieved author with ID: 56c7a99e-ae63-4c11-895a-6f99afd369a0
+2024/09/09 10:09:24.177713 main.go:69: [MongoDB] Retrieved author with ID: 5ccde8f0-44eb-4689-a6c1-6578aaffd623
+2024/09/09 10:09:24.178527 main.go:69: [MongoDB] Retrieved author with ID: 001633db-ae1b-4c76-ab82-d56173b1a0ce
+2024/09/09 10:09:24.179546 main.go:69: [MongoDB] Retrieved author with ID: a0cece9f-1271-43e2-a784-5012d4696024
+2024/09/09 10:09:24.180544 main.go:69: [MongoDB] Retrieved author with ID: 0e265418-6810-41cf-b629-6c32f2790a55
+2024/09/09 10:09:24.181397 main.go:69: [MongoDB] Retrieved author with ID: 94a4e65d-fdfa-457d-85f1-f8eedf6e9acc
+2024/09/09 10:09:24.182098 main.go:69: [MongoDB] Retrieved author with ID: 1989e2ea-f06d-47d6-a0ff-40ff9b839ea7
+2024/09/09 10:09:24.182964 main.go:69: [MongoDB] Retrieved author with ID: 6a9acaa2-2170-415d-a4ad-4aedfc369978
+2024/09/09 10:09:24.183892 main.go:69: [MongoDB] Retrieved author with ID: 698e4109-0c3d-4203-8452-edf80e91bb5a
+2024/09/09 10:09:24.184910 main.go:69: [MongoDB] Retrieved author with ID: a7179ea1-6a26-48c4-8894-5dc78a7619f9
+2024/09/09 10:09:24.186024 main.go:69: [MongoDB] Retrieved author with ID: 31341472-fa56-42c3-a396-b99fcbf851bd
+2024/09/09 10:09:24.187004 main.go:69: [MongoDB] Retrieved author with ID: 3d30ea31-ae14-4962-bd78-32cc93cfa99b
+2024/09/09 10:09:24.187856 main.go:69: [MongoDB] Retrieved author with ID: 987f9fd8-2822-4c41-b0b8-64951447b317
+2024/09/09 10:09:24.188699 main.go:69: [MongoDB] Retrieved author with ID: 01e7c3d3-febf-4436-84ae-c9f52dfb9a4e
+2024/09/09 10:09:24.189613 main.go:69: [MongoDB] Retrieved author with ID: 60bbd20c-049b-4920-a509-40747db87a6b
+2024/09/09 10:09:24.190798 main.go:69: [MongoDB] Retrieved author with ID: ae402cda-b175-44ba-9210-ea2a78cc523c
+2024/09/09 10:09:24.191903 main.go:69: [MongoDB] Retrieved author with ID: fc8a369b-24d2-48eb-90e3-dc4d29621ade
+2024/09/09 10:09:24.192812 main.go:69: [MongoDB] Retrieved author with ID: 5c70987e-5270-473e-bf05-d78d6532a765
+2024/09/09 10:09:24.193589 main.go:69: [MongoDB] Retrieved author with ID: f0d8f926-5679-4019-af7f-9b19dc67a160
+2024/09/09 10:09:24.194446 main.go:69: [MongoDB] Retrieved author with ID: 1df1aeb0-1280-4a58-a642-2de24126fadb
+2024/09/09 10:09:24.195226 main.go:69: [MongoDB] Retrieved author with ID: e6bff0e4-75df-49a2-b4d6-8690e6abb6c7
+2024/09/09 10:09:24.195899 main.go:69: [MongoDB] Retrieved author with ID: 31fe5d2e-1ccb-479a-97b9-bf920db8e2dc
+2024/09/09 10:09:24.196746 main.go:69: [MongoDB] Retrieved author with ID: d0c02b3e-2df9-44d5-b1cc-c737d1d60114
+2024/09/09 10:09:24.197763 main.go:69: [MongoDB] Retrieved author with ID: 1e5db2c8-9720-4421-baa6-2802d15e5f76
+2024/09/09 10:09:24.198623 main.go:69: [MongoDB] Retrieved author with ID: 738b0c25-019d-49c4-a1ce-775b9b8af0dc
+2024/09/09 10:09:24.199397 main.go:69: [MongoDB] Retrieved author with ID: 0ae90919-e1f9-49e2-8604-285f1d3ef932
+2024/09/09 10:09:24.200204 main.go:69: [MongoDB] Retrieved author with ID: 274295ba-d840-48c6-ac89-c850597bbe82
+2024/09/09 10:09:24.200979 main.go:69: [MongoDB] Retrieved author with ID: 35ba6d75-d227-4743-854d-67f8e19231c1
+2024/09/09 10:09:24.201867 main.go:69: [MongoDB] Retrieved author with ID: 70059c5d-c5a2-47e5-b977-52f0a9d17326
+2024/09/09 10:09:24.203013 main.go:69: [MongoDB] Retrieved author with ID: 5136134e-3f4b-4d51-87a3-61b275ae636c
+2024/09/09 10:09:24.204010 main.go:69: [MongoDB] Retrieved author with ID: ddbd6cab-47d8-4cde-b562-31f407fb983a
+2024/09/09 10:09:24.204816 main.go:69: [MongoDB] Retrieved author with ID: 4d74c41b-ae46-4432-95d9-78c5da26753a
+2024/09/09 10:09:24.205651 main.go:69: [MongoDB] Retrieved author with ID: 6ee18f92-0dac-443f-bb5f-dc78a6c7bdc3
+2024/09/09 10:09:24.207003 main.go:69: [MongoDB] Retrieved author with ID: cab6a021-34e9-4502-929f-a9b5e1229b20
+2024/09/09 10:09:24.208022 main.go:69: [MongoDB] Retrieved author with ID: 57763f36-3f92-4285-a606-ff84ac206476
+2024/09/09 10:09:24.210787 main.go:91: [MongoDB] Deleted author with ID: 5591f555-4662-45ec-bb12-9eb7d49cc7e9
+2024/09/09 10:09:24.211727 main.go:91: [MongoDB] Deleted author with ID: f651c7dc-d6f7-46f1-adb4-80a41cbe1ff3
+2024/09/09 10:09:24.212490 main.go:91: [MongoDB] Deleted author with ID: 92c6de5d-5275-471b-b7aa-ee88336a78f6
+2024/09/09 10:09:24.213450 main.go:91: [MongoDB] Deleted author with ID: 1da3a93c-6ac0-498f-9b83-9d2647b3d14c
+2024/09/09 10:09:24.214461 main.go:91: [MongoDB] Deleted author with ID: 936362dd-f64d-4384-a4a5-6e51f909513e
+2024/09/09 10:09:24.215564 main.go:91: [MongoDB] Deleted author with ID: 55d3e8c8-f907-4304-9ddf-e594e0bf4147
+2024/09/09 10:09:24.216582 main.go:91: [MongoDB] Deleted author with ID: 4e1aed80-dfab-4783-b0bc-cb81cd708801
+2024/09/09 10:09:24.217661 main.go:91: [MongoDB] Deleted author with ID: e4a488d7-82fb-4ecc-a46e-6961e71f6986
+2024/09/09 10:09:24.218784 main.go:91: [MongoDB] Deleted author with ID: f08af1bc-09f0-4933-81e6-ffb5723ea1f4
+2024/09/09 10:09:24.219753 main.go:91: [MongoDB] Deleted author with ID: 19c09fcc-b566-47f8-8ce3-1b7eb286351e
+2024/09/09 10:09:24.220953 main.go:91: [MongoDB] Deleted author with ID: 8fe21019-1420-4aca-81da-ff9c232789a9
+2024/09/09 10:09:24.222203 main.go:91: [MongoDB] Deleted author with ID: 56c7a99e-ae63-4c11-895a-6f99afd369a0
+2024/09/09 10:09:24.223382 main.go:91: [MongoDB] Deleted author with ID: 5ccde8f0-44eb-4689-a6c1-6578aaffd623
+2024/09/09 10:09:24.224586 main.go:91: [MongoDB] Deleted author with ID: a0cece9f-1271-43e2-a784-5012d4696024
+2024/09/09 10:09:24.225766 main.go:91: [MongoDB] Deleted author with ID: 0e265418-6810-41cf-b629-6c32f2790a55
+2024/09/09 10:09:24.226895 main.go:91: [MongoDB] Deleted author with ID: 94a4e65d-fdfa-457d-85f1-f8eedf6e9acc
+2024/09/09 10:09:24.228046 main.go:91: [MongoDB] Deleted author with ID: 001633db-ae1b-4c76-ab82-d56173b1a0ce
+2024/09/09 10:09:24.229157 main.go:91: [MongoDB] Deleted author with ID: 698e4109-0c3d-4203-8452-edf80e91bb5a
+2024/09/09 10:09:24.230192 main.go:91: [MongoDB] Deleted author with ID: a7179ea1-6a26-48c4-8894-5dc78a7619f9
+2024/09/09 10:09:24.231272 main.go:91: [MongoDB] Deleted author with ID: 31341472-fa56-42c3-a396-b99fcbf851bd
+2024/09/09 10:09:24.232170 main.go:91: [MongoDB] Deleted author with ID: 3d30ea31-ae14-4962-bd78-32cc93cfa99b
+2024/09/09 10:09:24.233368 main.go:91: [MongoDB] Deleted author with ID: 987f9fd8-2822-4c41-b0b8-64951447b317
+2024/09/09 10:09:24.235155 main.go:91: [MongoDB] Deleted author with ID: 01e7c3d3-febf-4436-84ae-c9f52dfb9a4e
+2024/09/09 10:09:24.236442 main.go:91: [MongoDB] Deleted author with ID: 1989e2ea-f06d-47d6-a0ff-40ff9b839ea7
+2024/09/09 10:09:24.237433 main.go:91: [MongoDB] Deleted author with ID: 6a9acaa2-2170-415d-a4ad-4aedfc369978
+2024/09/09 10:09:24.238576 main.go:91: [MongoDB] Deleted author with ID: 60bbd20c-049b-4920-a509-40747db87a6b
+2024/09/09 10:09:24.239842 main.go:91: [MongoDB] Deleted author with ID: ae402cda-b175-44ba-9210-ea2a78cc523c
+2024/09/09 10:09:24.241163 main.go:91: [MongoDB] Deleted author with ID: fc8a369b-24d2-48eb-90e3-dc4d29621ade
+2024/09/09 10:09:24.242423 main.go:91: [MongoDB] Deleted author with ID: 1df1aeb0-1280-4a58-a642-2de24126fadb
+2024/09/09 10:09:24.243520 main.go:91: [MongoDB] Deleted author with ID: e6bff0e4-75df-49a2-b4d6-8690e6abb6c7
+2024/09/09 10:09:24.244760 main.go:91: [MongoDB] Deleted author with ID: 31fe5d2e-1ccb-479a-97b9-bf920db8e2dc
+2024/09/09 10:09:24.246001 main.go:91: [MongoDB] Deleted author with ID: d0c02b3e-2df9-44d5-b1cc-c737d1d60114
+2024/09/09 10:09:24.248922 main.go:91: [MongoDB] Deleted author with ID: 1e5db2c8-9720-4421-baa6-2802d15e5f76
+2024/09/09 10:09:24.250118 main.go:91: [MongoDB] Deleted author with ID: 5c70987e-5270-473e-bf05-d78d6532a765
+2024/09/09 10:09:24.253636 main.go:91: [MongoDB] Deleted author with ID: f0d8f926-5679-4019-af7f-9b19dc67a160
+2024/09/09 10:09:24.255543 main.go:91: [MongoDB] Deleted author with ID: 0ae90919-e1f9-49e2-8604-285f1d3ef932
+2024/09/09 10:09:24.258255 main.go:91: [MongoDB] Deleted author with ID: 274295ba-d840-48c6-ac89-c850597bbe82
+2024/09/09 10:09:24.259360 main.go:91: [MongoDB] Deleted author with ID: 35ba6d75-d227-4743-854d-67f8e19231c1
+2024/09/09 10:09:24.260425 main.go:91: [MongoDB] Deleted author with ID: 738b0c25-019d-49c4-a1ce-775b9b8af0dc
+2024/09/09 10:09:24.262395 main.go:91: [MongoDB] Deleted author with ID: ddbd6cab-47d8-4cde-b562-31f407fb983a
+2024/09/09 10:09:24.263501 main.go:91: [MongoDB] Deleted author with ID: 4d74c41b-ae46-4432-95d9-78c5da26753a
+2024/09/09 10:09:24.264717 main.go:91: [MongoDB] Deleted author with ID: 6ee18f92-0dac-443f-bb5f-dc78a6c7bdc3
+2024/09/09 10:09:24.265961 main.go:91: [MongoDB] Deleted author with ID: cab6a021-34e9-4502-929f-a9b5e1229b20
+2024/09/09 10:09:24.267009 main.go:91: [MongoDB] Deleted author with ID: 57763f36-3f92-4285-a606-ff84ac206476
+2024/09/09 10:09:24.268853 main.go:91: [MongoDB] Deleted author with ID: 70059c5d-c5a2-47e5-b977-52f0a9d17326
+2024/09/09 10:09:24.272453 main.go:91: [MongoDB] Deleted author with ID: 5136134e-3f4b-4d51-87a3-61b275ae636c
+2024/09/09 10:09:24.273810 main.go:91: [MongoDB] Deleted author with ID: 26d1d650-ecd8-40d5-a9d5-677b654ebdbe
+2024/09/09 10:09:24.275063 main.go:91: [MongoDB] Deleted author with ID: 511c42b0-5210-46f1-a046-4cf5ed18cabb
+2024/09/09 10:09:24.276271 main.go:91: [MongoDB] Deleted author with ID: 0ed1629c-8034-4fd9-895f-c44587f5c905
+2024/09/09 10:09:24.277260 main.go:91: [MongoDB] Deleted author with ID: 2f91909a-2e4d-4649-9867-1fe8e66356bf
+2024/09/09 10:09:24.278430 main.go:91: [MongoDB] Deleted author with ID: b429e553-d85b-4488-9b72-0dced39d639b
+2024/09/09 10:09:24.279582 main.go:91: [MongoDB] Deleted author with ID: 1cae75b1-dcf1-41cf-aa89-8da72b0620f8
+2024/09/09 10:09:24.280749 main.go:91: [MongoDB] Deleted author with ID: f7fa7fc6-e1f6-4c59-af17-7ea23afcd317
+2024/09/09 10:09:24.281912 main.go:91: [MongoDB] Deleted author with ID: b2b25ada-167f-4e3f-af67-f0be01d85deb
+2024/09/09 10:09:24.283142 main.go:91: [MongoDB] Deleted author with ID: 0be6604e-a460-478c-aadf-2e1597e1d54c
+2024/09/09 10:09:24.284270 main.go:91: [MongoDB] Deleted author with ID: dd32c628-b08e-433b-b387-d0122823826c
+2024/09/09 10:09:24.285359 main.go:91: [MongoDB] Deleted author with ID: 4f0b403f-ec71-4f10-b51b-1e285b390dfe
+2024/09/09 10:09:24.286581 main.go:91: [MongoDB] Deleted author with ID: 5a3be7a7-19bb-41f7-8a35-925603f2fe51
+2024/09/09 10:09:24.287684 main.go:91: [MongoDB] Deleted author with ID: dd3f702f-7dd9-46aa-81ef-fb41fd648d8f
+2024/09/09 10:09:24.289040 main.go:91: [MongoDB] Deleted author with ID: 19d6854e-585d-4e3d-9530-8a47856cb2d6
+2024/09/09 10:09:24.290247 main.go:91: [MongoDB] Deleted author with ID: e5fe3081-c668-45f5-bbc7-95720d7f6017
+2024/09/09 10:09:24.291327 main.go:91: [MongoDB] Deleted author with ID: f85d9307-84ac-4bfa-8ed3-390ff9ba1dfc
+2024/09/09 10:09:24.292409 main.go:91: [MongoDB] Deleted author with ID: d6f79c23-9469-4a28-b764-de2cbf34211f
+2024/09/09 10:09:24.293562 main.go:91: [MongoDB] Deleted author with ID: 5b3f65b2-a73c-4e5f-a391-4693f412f8a4
+2024/09/09 10:09:24.294653 main.go:91: [MongoDB] Deleted author with ID: 0584a294-064b-4076-bea7-794eed04233e
+2024/09/09 10:09:24.295670 main.go:91: [MongoDB] Deleted author with ID: 6e124317-9080-4902-a588-2da1a3fcc291
+2024/09/09 10:09:24.296907 main.go:91: [MongoDB] Deleted author with ID: a7478f57-8d28-48d2-abeb-7b729535a9aa
+2024/09/09 10:09:24.298114 main.go:91: [MongoDB] Deleted author with ID: 16fca503-b079-4f25-a669-a90efeee2a85
+2024/09/09 10:09:24.299279 main.go:91: [MongoDB] Deleted author with ID: 44199ad7-8e4d-4665-b276-3f567e18fc40
+2024/09/09 10:09:24.300947 main.go:91: [MongoDB] Deleted author with ID: 1b746b4d-b6f6-4231-8dd4-32ce63528ea8
+2024/09/09 10:09:24.302154 main.go:91: [MongoDB] Deleted author with ID: fda923a5-19f2-48ef-91dd-549ce6180be8
+2024/09/09 10:09:24.304856 main.go:91: [MongoDB] Deleted author with ID: 0ed6638a-8024-400d-83e2-7bd5d240e710
+2024/09/09 10:09:24.306029 main.go:91: [MongoDB] Deleted author with ID: 7182177d-64f7-471d-ab54-2a621cfc6f79
+2024/09/09 10:09:24.308006 main.go:91: [MongoDB] Deleted author with ID: 22125341-6a09-4ef1-8974-26f400915f14
+2024/09/09 10:09:24.311179 main.go:91: [MongoDB] Deleted author with ID: 1e64ec84-e46e-490f-ad6a-add494d0bfb3
+2024/09/09 10:09:24.312442 main.go:91: [MongoDB] Deleted author with ID: 812519af-578b-4551-b87c-3ca65e17d71a
+2024/09/09 10:09:24.314071 main.go:91: [MongoDB] Deleted author with ID: 9dbafff1-c6c7-4d63-8551-853ed16ea04d
+2024/09/09 10:09:24.315468 main.go:91: [MongoDB] Deleted author with ID: bc110354-fd50-4130-8475-16ba608f0fe5
+2024/09/09 10:09:24.316567 main.go:91: [MongoDB] Deleted author with ID: 1bdfca67-f03c-48d1-bc5c-bd2dcd84bdb3
+2024/09/09 10:09:24.317764 main.go:91: [MongoDB] Deleted author with ID: ea5947e1-d354-4bfa-b107-bcb2ac390afa
+2024/09/09 10:09:24.319008 main.go:91: [MongoDB] Deleted author with ID: ef5ddbb4-60c4-4818-aec4-117776af3497
+2024/09/09 10:09:24.320637 main.go:91: [MongoDB] Deleted author with ID: fde6f181-c2af-4d32-9f23-27cdeec64e87
+2024/09/09 10:09:24.322295 main.go:91: [MongoDB] Deleted author with ID: 7e11f061-d97d-45a2-aa9e-d37bba3690f2
+2024/09/09 10:09:24.323128 main.go:91: [MongoDB] Deleted author with ID: f570f7dc-a56e-4b31-80a0-fd44fe4073ae
+2024/09/09 10:09:24.323989 main.go:91: [MongoDB] Deleted author with ID: 1c54ca52-fc2e-4983-b218-28f118580e58
+2024/09/09 10:09:24.325060 main.go:91: [MongoDB] Deleted author with ID: 50a38277-fb3b-4ce5-88b2-7f82b5a77de4
+2024/09/09 10:09:24.326140 main.go:91: [MongoDB] Deleted author with ID: 8c01c62b-1697-46a7-930f-56cdfbba6bdb
+2024/09/09 10:09:24.328661 main.go:91: [MongoDB] Deleted author with ID: af9086fb-3ffa-4d67-b260-43e4cdc40c6e
+2024/09/09 10:09:24.329900 main.go:91: [MongoDB] Deleted author with ID: 7e63e232-6501-4b5d-9622-7eccff236877
+2024/09/09 10:09:24.332243 main.go:91: [MongoDB] Deleted author with ID: 5e4d62c1-dc85-4548-a31b-b76d98e6512c
+2024/09/09 10:09:24.335389 main.go:91: [MongoDB] Deleted author with ID: 48c661ed-e13e-4fbf-94a3-3f5e18b55ec2
+2024/09/09 10:09:24.336512 main.go:91: [MongoDB] Deleted author with ID: 97657d9b-2f15-4e93-80fd-1da9feca663b
+2024/09/09 10:09:24.337585 main.go:91: [MongoDB] Deleted author with ID: 12c5674a-7833-4a06-a807-861ff16f41e3
+2024/09/09 10:09:24.338901 main.go:91: [MongoDB] Deleted author with ID: c2fe12a2-f0ee-4876-98b5-b64b1e342916
+2024/09/09 10:09:24.340465 main.go:91: [MongoDB] Deleted author with ID: 753051f8-7dd2-4e31-849e-106085ea1190
+2024/09/09 10:09:24.344718 main.go:91: [MongoDB] Deleted author with ID: 8245739e-594e-432b-8bef-89adc659177f
+2024/09/09 10:09:24.345949 main.go:91: [MongoDB] Deleted author with ID: 948a8a16-84a7-462a-b6c1-9b136fe671c1
+2024/09/09 10:09:24.347680 main.go:91: [MongoDB] Deleted author with ID: 0efeff20-21a1-4b8f-b269-486da02479ca
+2024/09/09 10:09:24.348948 main.go:91: [MongoDB] Deleted author with ID: 9a7c75e0-9cef-4c67-94d0-340bbd11154d
+2024/09/09 10:09:24.350369 main.go:91: [MongoDB] Deleted author with ID: d13891db-ef67-4504-9fba-6ee45910f6dc
+2024/09/09 10:09:24.351605 main.go:105: [MongoDB] Updated author with ID: 1c54ca52-fc2e-4983-b218-28f118580e58
+2024/09/09 10:09:24.352639 main.go:105: [MongoDB] Updated author with ID: 50a38277-fb3b-4ce5-88b2-7f82b5a77de4
+2024/09/09 10:09:24.353610 main.go:105: [MongoDB] Updated author with ID: 8c01c62b-1697-46a7-930f-56cdfbba6bdb
+2024/09/09 10:09:24.354527 main.go:105: [MongoDB] Updated author with ID: af9086fb-3ffa-4d67-b260-43e4cdc40c6e
+2024/09/09 10:09:24.355378 main.go:105: [MongoDB] Updated author with ID: 7e63e232-6501-4b5d-9622-7eccff236877
+2024/09/09 10:09:24.356406 main.go:105: [MongoDB] Updated author with ID: 5e4d62c1-dc85-4548-a31b-b76d98e6512c
+2024/09/09 10:09:24.357528 main.go:105: [MongoDB] Updated author with ID: f570f7dc-a56e-4b31-80a0-fd44fe4073ae
+2024/09/09 10:09:24.358702 main.go:105: [MongoDB] Updated author with ID: 97657d9b-2f15-4e93-80fd-1da9feca663b
+2024/09/09 10:09:24.359752 main.go:105: [MongoDB] Updated author with ID: 12c5674a-7833-4a06-a807-861ff16f41e3
+2024/09/09 10:09:24.360697 main.go:105: [MongoDB] Updated author with ID: c2fe12a2-f0ee-4876-98b5-b64b1e342916
+2024/09/09 10:09:24.362949 main.go:105: [MongoDB] Updated author with ID: 753051f8-7dd2-4e31-849e-106085ea1190
+2024/09/09 10:09:24.364172 main.go:105: [MongoDB] Updated author with ID: 8245739e-594e-432b-8bef-89adc659177f
+2024/09/09 10:09:24.365385 main.go:105: [MongoDB] Updated author with ID: 948a8a16-84a7-462a-b6c1-9b136fe671c1
+2024/09/09 10:09:24.366816 main.go:105: [MongoDB] Updated author with ID: 0efeff20-21a1-4b8f-b269-486da02479ca
+2024/09/09 10:09:24.368840 main.go:105: [MongoDB] Updated author with ID: 48c661ed-e13e-4fbf-94a3-3f5e18b55ec2
+2024/09/09 10:09:24.370800 main.go:105: [MongoDB] Updated author with ID: 9a7c75e0-9cef-4c67-94d0-340bbd11154d
+2024/09/09 10:09:24.372057 main.go:105: [MongoDB] Updated author with ID: d13891db-ef67-4504-9fba-6ee45910f6dc
+2024/09/09 10:09:24.373066 main.go:105: [MongoDB] Updated author with ID: 5591f555-4662-45ec-bb12-9eb7d49cc7e9
+2024/09/09 10:09:24.374132 main.go:105: [MongoDB] Updated author with ID: f651c7dc-d6f7-46f1-adb4-80a41cbe1ff3
+2024/09/09 10:09:24.375239 main.go:105: [MongoDB] Updated author with ID: 92c6de5d-5275-471b-b7aa-ee88336a78f6
+2024/09/09 10:09:24.376076 main.go:105: [MongoDB] Updated author with ID: 936362dd-f64d-4384-a4a5-6e51f909513e
+2024/09/09 10:09:24.376893 main.go:105: [MongoDB] Updated author with ID: 55d3e8c8-f907-4304-9ddf-e594e0bf4147
+2024/09/09 10:09:24.377762 main.go:105: [MongoDB] Updated author with ID: 4e1aed80-dfab-4783-b0bc-cb81cd708801
+2024/09/09 10:09:24.378860 main.go:105: [MongoDB] Updated author with ID: e4a488d7-82fb-4ecc-a46e-6961e71f6986
+2024/09/09 10:09:24.380032 main.go:105: [MongoDB] Updated author with ID: f08af1bc-09f0-4933-81e6-ffb5723ea1f4
+2024/09/09 10:09:24.381002 main.go:105: [MongoDB] Updated author with ID: 19c09fcc-b566-47f8-8ce3-1b7eb286351e
+2024/09/09 10:09:24.381880 main.go:105: [MongoDB] Updated author with ID: 8fe21019-1420-4aca-81da-ff9c232789a9
+2024/09/09 10:09:24.382641 main.go:105: [MongoDB] Updated author with ID: 1da3a93c-6ac0-498f-9b83-9d2647b3d14c
+2024/09/09 10:09:24.383433 main.go:105: [MongoDB] Updated author with ID: 56c7a99e-ae63-4c11-895a-6f99afd369a0
+2024/09/09 10:09:24.384250 main.go:105: [MongoDB] Updated author with ID: 5ccde8f0-44eb-4689-a6c1-6578aaffd623
+2024/09/09 10:09:24.385244 main.go:105: [MongoDB] Updated author with ID: a0cece9f-1271-43e2-a784-5012d4696024
+2024/09/09 10:09:24.386107 main.go:105: [MongoDB] Updated author with ID: 0e265418-6810-41cf-b629-6c32f2790a55
+2024/09/09 10:09:24.386790 main.go:105: [MongoDB] Updated author with ID: 94a4e65d-fdfa-457d-85f1-f8eedf6e9acc
+2024/09/09 10:09:24.387615 main.go:105: [MongoDB] Updated author with ID: 001633db-ae1b-4c76-ab82-d56173b1a0ce
+2024/09/09 10:09:24.388405 main.go:105: [MongoDB] Updated author with ID: a7179ea1-6a26-48c4-8894-5dc78a7619f9
+2024/09/09 10:09:24.389421 main.go:105: [MongoDB] Updated author with ID: 31341472-fa56-42c3-a396-b99fcbf851bd
+2024/09/09 10:09:24.390417 main.go:105: [MongoDB] Updated author with ID: 3d30ea31-ae14-4962-bd78-32cc93cfa99b
+2024/09/09 10:09:24.391223 main.go:105: [MongoDB] Updated author with ID: 987f9fd8-2822-4c41-b0b8-64951447b317
+2024/09/09 10:09:24.391965 main.go:105: [MongoDB] Updated author with ID: 01e7c3d3-febf-4436-84ae-c9f52dfb9a4e
+2024/09/09 10:09:24.392744 main.go:105: [MongoDB] Updated author with ID: 1989e2ea-f06d-47d6-a0ff-40ff9b839ea7
+2024/09/09 10:09:24.393601 main.go:105: [MongoDB] Updated author with ID: 6a9acaa2-2170-415d-a4ad-4aedfc369978
+2024/09/09 10:09:24.394766 main.go:105: [MongoDB] Updated author with ID: 698e4109-0c3d-4203-8452-edf80e91bb5a
+2024/09/09 10:09:24.395830 main.go:105: [MongoDB] Updated author with ID: 60bbd20c-049b-4920-a509-40747db87a6b
+2024/09/09 10:09:24.396814 main.go:105: [MongoDB] Updated author with ID: ae402cda-b175-44ba-9210-ea2a78cc523c
+2024/09/09 10:09:24.397743 main.go:105: [MongoDB] Updated author with ID: fc8a369b-24d2-48eb-90e3-dc4d29621ade
+2024/09/09 10:09:24.398621 main.go:105: [MongoDB] Updated author with ID: e6bff0e4-75df-49a2-b4d6-8690e6abb6c7
+2024/09/09 10:09:24.399627 main.go:105: [MongoDB] Updated author with ID: 31fe5d2e-1ccb-479a-97b9-bf920db8e2dc
+2024/09/09 10:09:24.400484 main.go:105: [MongoDB] Updated author with ID: d0c02b3e-2df9-44d5-b1cc-c737d1d60114
+2024/09/09 10:09:24.401275 main.go:105: [MongoDB] Updated author with ID: 1e5db2c8-9720-4421-baa6-2802d15e5f76
+2024/09/09 10:09:24.402066 main.go:105: [MongoDB] Updated author with ID: 5c70987e-5270-473e-bf05-d78d6532a765
+2024/09/09 10:09:24.402858 main.go:105: [MongoDB] Updated author with ID: f0d8f926-5679-4019-af7f-9b19dc67a160
+2024/09/09 10:09:24.403949 main.go:105: [MongoDB] Updated author with ID: 1df1aeb0-1280-4a58-a642-2de24126fadb
+2024/09/09 10:09:24.405279 main.go:105: [MongoDB] Updated author with ID: 0ae90919-e1f9-49e2-8604-285f1d3ef932
+2024/09/09 10:09:24.406243 main.go:105: [MongoDB] Updated author with ID: 274295ba-d840-48c6-ac89-c850597bbe82
+2024/09/09 10:09:24.406998 main.go:105: [MongoDB] Updated author with ID: 35ba6d75-d227-4743-854d-67f8e19231c1
+2024/09/09 10:09:24.407725 main.go:105: [MongoDB] Updated author with ID: 738b0c25-019d-49c4-a1ce-775b9b8af0dc
+2024/09/09 10:09:24.408500 main.go:105: [MongoDB] Updated author with ID: 4d74c41b-ae46-4432-95d9-78c5da26753a
+2024/09/09 10:09:24.409467 main.go:105: [MongoDB] Updated author with ID: 6ee18f92-0dac-443f-bb5f-dc78a6c7bdc3
+2024/09/09 10:09:24.410630 main.go:105: [MongoDB] Updated author with ID: cab6a021-34e9-4502-929f-a9b5e1229b20
+2024/09/09 10:09:24.411675 main.go:105: [MongoDB] Updated author with ID: 57763f36-3f92-4285-a606-ff84ac206476
+2024/09/09 10:09:24.412584 main.go:105: [MongoDB] Updated author with ID: 70059c5d-c5a2-47e5-b977-52f0a9d17326
+2024/09/09 10:09:24.413264 main.go:105: [MongoDB] Updated author with ID: 5136134e-3f4b-4d51-87a3-61b275ae636c
+2024/09/09 10:09:24.413903 main.go:105: [MongoDB] Updated author with ID: ddbd6cab-47d8-4cde-b562-31f407fb983a
+2024/09/09 10:09:24.414580 main.go:105: [MongoDB] Updated author with ID: 26d1d650-ecd8-40d5-a9d5-677b654ebdbe
+2024/09/09 10:09:24.415197 main.go:105: [MongoDB] Updated author with ID: 511c42b0-5210-46f1-a046-4cf5ed18cabb
+2024/09/09 10:09:24.416153 main.go:105: [MongoDB] Updated author with ID: 0ed1629c-8034-4fd9-895f-c44587f5c905
+2024/09/09 10:09:24.417125 main.go:105: [MongoDB] Updated author with ID: 2f91909a-2e4d-4649-9867-1fe8e66356bf
+2024/09/09 10:09:24.418117 main.go:105: [MongoDB] Updated author with ID: b429e553-d85b-4488-9b72-0dced39d639b
+2024/09/09 10:09:24.418960 main.go:105: [MongoDB] Updated author with ID: 1cae75b1-dcf1-41cf-aa89-8da72b0620f8
+2024/09/09 10:09:24.419649 main.go:105: [MongoDB] Updated author with ID: f7fa7fc6-e1f6-4c59-af17-7ea23afcd317
+2024/09/09 10:09:24.420385 main.go:105: [MongoDB] Updated author with ID: b2b25ada-167f-4e3f-af67-f0be01d85deb
+2024/09/09 10:09:24.421450 main.go:105: [MongoDB] Updated author with ID: 0be6604e-a460-478c-aadf-2e1597e1d54c
+2024/09/09 10:09:24.422413 main.go:105: [MongoDB] Updated author with ID: dd32c628-b08e-433b-b387-d0122823826c
+2024/09/09 10:09:24.423186 main.go:105: [MongoDB] Updated author with ID: 4f0b403f-ec71-4f10-b51b-1e285b390dfe
+2024/09/09 10:09:24.423926 main.go:105: [MongoDB] Updated author with ID: 5a3be7a7-19bb-41f7-8a35-925603f2fe51
+2024/09/09 10:09:24.424733 main.go:105: [MongoDB] Updated author with ID: dd3f702f-7dd9-46aa-81ef-fb41fd648d8f
+2024/09/09 10:09:24.425916 main.go:105: [MongoDB] Updated author with ID: e5fe3081-c668-45f5-bbc7-95720d7f6017
+2024/09/09 10:09:24.427004 main.go:105: [MongoDB] Updated author with ID: f85d9307-84ac-4bfa-8ed3-390ff9ba1dfc
+2024/09/09 10:09:24.428061 main.go:105: [MongoDB] Updated author with ID: d6f79c23-9469-4a28-b764-de2cbf34211f
+2024/09/09 10:09:24.429256 main.go:105: [MongoDB] Updated author with ID: 5b3f65b2-a73c-4e5f-a391-4693f412f8a4
+2024/09/09 10:09:24.430238 main.go:105: [MongoDB] Updated author with ID: 0584a294-064b-4076-bea7-794eed04233e
+2024/09/09 10:09:24.430988 main.go:105: [MongoDB] Updated author with ID: 19d6854e-585d-4e3d-9530-8a47856cb2d6
+2024/09/09 10:09:24.431628 main.go:105: [MongoDB] Updated author with ID: a7478f57-8d28-48d2-abeb-7b729535a9aa
+2024/09/09 10:09:24.432299 main.go:105: [MongoDB] Updated author with ID: 16fca503-b079-4f25-a669-a90efeee2a85
+2024/09/09 10:09:24.433199 main.go:105: [MongoDB] Updated author with ID: 44199ad7-8e4d-4665-b276-3f567e18fc40
+2024/09/09 10:09:24.434194 main.go:105: [MongoDB] Updated author with ID: 1b746b4d-b6f6-4231-8dd4-32ce63528ea8
+2024/09/09 10:09:24.435127 main.go:105: [MongoDB] Updated author with ID: fda923a5-19f2-48ef-91dd-549ce6180be8
+2024/09/09 10:09:24.436016 main.go:105: [MongoDB] Updated author with ID: 0ed6638a-8024-400d-83e2-7bd5d240e710
+2024/09/09 10:09:24.436981 main.go:105: [MongoDB] Updated author with ID: 6e124317-9080-4902-a588-2da1a3fcc291
+2024/09/09 10:09:24.437899 main.go:105: [MongoDB] Updated author with ID: 7182177d-64f7-471d-ab54-2a621cfc6f79
+2024/09/09 10:09:24.439109 main.go:105: [MongoDB] Updated author with ID: 22125341-6a09-4ef1-8974-26f400915f14
+2024/09/09 10:09:24.439948 main.go:105: [MongoDB] Updated author with ID: 1e64ec84-e46e-490f-ad6a-add494d0bfb3
+2024/09/09 10:09:24.440916 main.go:105: [MongoDB] Updated author with ID: 812519af-578b-4551-b87c-3ca65e17d71a
+2024/09/09 10:09:24.442043 main.go:105: [MongoDB] Updated author with ID: bc110354-fd50-4130-8475-16ba608f0fe5
+2024/09/09 10:09:24.443019 main.go:105: [MongoDB] Updated author with ID: 1bdfca67-f03c-48d1-bc5c-bd2dcd84bdb3
+2024/09/09 10:09:24.443809 main.go:105: [MongoDB] Updated author with ID: ea5947e1-d354-4bfa-b107-bcb2ac390afa
+2024/09/09 10:09:24.444771 main.go:105: [MongoDB] Updated author with ID: ef5ddbb4-60c4-4818-aec4-117776af3497
+2024/09/09 10:09:24.445804 main.go:105: [MongoDB] Updated author with ID: fde6f181-c2af-4d32-9f23-27cdeec64e87
+2024/09/09 10:09:24.446611 main.go:105: [MongoDB] Updated author with ID: 7e11f061-d97d-45a2-aa9e-d37bba3690f2
+2024/09/09 10:09:24.447319 main.go:105: [MongoDB] Updated author with ID: 9dbafff1-c6c7-4d63-8551-853ed16ea04d
+2024/09/09 10:09:24.448048 main.go:140: Running benchmarks for GORM repository...
+2024/09/09 10:09:24.451977 main.go:55: [GORM] Created author with ID: 9309fa71-87ad-4be0-bae4-55442c3213f5
+2024/09/09 10:09:24.454857 main.go:55: [GORM] Created author with ID: 6cfe26d4-6690-4641-a703-18c7d5a50bba
+2024/09/09 10:09:24.458022 main.go:55: [GORM] Created author with ID: ea1edf79-1178-4668-96d9-af4442f1a51f
+2024/09/09 10:09:24.461179 main.go:55: [GORM] Created author with ID: e1dcbb08-9253-4624-b45f-1345fdb494e4
+2024/09/09 10:09:24.463875 main.go:55: [GORM] Created author with ID: f857dca8-8d5b-4b13-8800-921006644e5e
+2024/09/09 10:09:24.466953 main.go:55: [GORM] Created author with ID: 5cb84701-20c7-4293-bcdb-624293e5842d
+2024/09/09 10:09:24.470358 main.go:55: [GORM] Created author with ID: 8b745fd7-4b24-4273-b14f-b5bea8c59393
+2024/09/09 10:09:24.473611 main.go:55: [GORM] Created author with ID: efce6c15-2a8e-4516-825c-462f48d41cd8
+2024/09/09 10:09:24.477001 main.go:55: [GORM] Created author with ID: 05477016-3b57-4c4e-94d3-2a1bfd09e320
+2024/09/09 10:09:24.484915 main.go:55: [GORM] Created author with ID: 24a345cb-2d52-4db8-8aac-e9510312a7e3
+2024/09/09 10:09:24.491120 main.go:55: [GORM] Created author with ID: 2aa87938-0640-444d-ba2c-7e4b17feee23
+2024/09/09 10:09:24.496212 main.go:55: [GORM] Created author with ID: 9e664155-c24b-4909-86ad-a7e1d340b5f7
+2024/09/09 10:09:24.501346 main.go:55: [GORM] Created author with ID: 47800b3a-8f1c-43f6-b6cc-b4226e3ef9d2
+2024/09/09 10:09:24.505765 main.go:55: [GORM] Created author with ID: 7efeda5c-1123-472d-a889-addf02c98d6f
+2024/09/09 10:09:24.509691 main.go:55: [GORM] Created author with ID: 8cdf3a99-db55-40c1-a537-ea5b7de37fb7
+2024/09/09 10:09:24.512972 main.go:55: [GORM] Created author with ID: e157808e-47d3-476b-9f84-86fa9fd8c2fb
+2024/09/09 10:09:24.516588 main.go:55: [GORM] Created author with ID: 3d4b966a-ec25-4550-81c5-41412a1cb54f
+2024/09/09 10:09:24.519940 main.go:55: [GORM] Created author with ID: 22368a62-3477-47d3-8e17-78e2ecc42686
+2024/09/09 10:09:24.523009 main.go:55: [GORM] Created author with ID: 0523169b-7138-4b3f-8912-45bb881a1149
+2024/09/09 10:09:24.525936 main.go:55: [GORM] Created author with ID: 785bf98c-8e1e-4b0f-92b8-1eb7ba439e4d
+2024/09/09 10:09:24.528504 main.go:55: [GORM] Created author with ID: e516bc0a-67bb-4f7d-83f8-3644e4514bb1
+2024/09/09 10:09:24.531423 main.go:55: [GORM] Created author with ID: 9a4f3642-ed53-4a4a-8708-2b402af837c8
+2024/09/09 10:09:24.534522 main.go:55: [GORM] Created author with ID: 75e5c20d-903d-4300-bbd0-5237fead6e6a
+2024/09/09 10:09:24.537778 main.go:55: [GORM] Created author with ID: 231d9c82-05a9-4790-a1aa-42881fe5e198
+2024/09/09 10:09:24.540554 main.go:55: [GORM] Created author with ID: 8b195883-6b4e-4092-953d-d0aa5a4e6309
+2024/09/09 10:09:24.543508 main.go:55: [GORM] Created author with ID: 13f1c90e-3397-4834-bcbb-2e5f50f03a1a
+2024/09/09 10:09:24.546196 main.go:55: [GORM] Created author with ID: fb371f94-d3d0-4de5-9ac1-43a3ce6ceb22
+2024/09/09 10:09:24.549564 main.go:55: [GORM] Created author with ID: 0d22f80c-9703-4143-bb71-51d57e7bdc62
+2024/09/09 10:09:24.552697 main.go:55: [GORM] Created author with ID: 4fafb3c5-1f6f-4bc1-8b5a-242c31a5b94b
+2024/09/09 10:09:24.555742 main.go:55: [GORM] Created author with ID: 800aeceb-bad2-414d-aa70-c75bf2fa46a0
+2024/09/09 10:09:24.558428 main.go:55: [GORM] Created author with ID: 1bddbd82-a2d5-47eb-9415-7ed075baaac2
+2024/09/09 10:09:24.561322 main.go:55: [GORM] Created author with ID: 871cae36-e4ae-4984-94eb-14ff76506475
+2024/09/09 10:09:24.564465 main.go:55: [GORM] Created author with ID: 28bb7fbc-1ed6-486f-b2dd-8923cc8ae34e
+2024/09/09 10:09:24.567670 main.go:55: [GORM] Created author with ID: e1540e71-a4e7-4f5e-8a5a-60df95a98c3b
+2024/09/09 10:09:24.570522 main.go:55: [GORM] Created author with ID: f8dc4907-52ad-408b-bbd0-f22c179f0e31
+2024/09/09 10:09:24.573416 main.go:55: [GORM] Created author with ID: f98935a8-dec2-4069-846e-9f9f78d9ad91
+2024/09/09 10:09:24.576237 main.go:55: [GORM] Created author with ID: e0dca297-cd0d-4f2b-bb50-4d2328a7de88
+2024/09/09 10:09:24.579632 main.go:55: [GORM] Created author with ID: 724674e6-1c5b-433c-94ff-0743d0caa7f7
+2024/09/09 10:09:24.582660 main.go:55: [GORM] Created author with ID: 74703228-1101-431a-ab5a-4c59db0b1ed7
+2024/09/09 10:09:24.585852 main.go:55: [GORM] Created author with ID: 7fd2a3a9-36d5-4ebe-b598-32da30590206
+2024/09/09 10:09:24.588511 main.go:55: [GORM] Created author with ID: 66e4debd-afee-424c-982a-97a25132f1ea
+2024/09/09 10:09:24.591617 main.go:55: [GORM] Created author with ID: 0945167b-f725-45b9-89b9-bc0ad938c4cc
+2024/09/09 10:09:24.594638 main.go:55: [GORM] Created author with ID: 08896a90-29f7-44d5-8492-44942a7810fb
+2024/09/09 10:09:24.597912 main.go:55: [GORM] Created author with ID: b22139b2-4365-475c-a499-0480a0c80f2e
+2024/09/09 10:09:24.600840 main.go:55: [GORM] Created author with ID: 93f6fdce-af37-4dd0-85ed-0bfcbe8c13ee
+2024/09/09 10:09:24.603992 main.go:55: [GORM] Created author with ID: f936e0a4-2e59-4674-ae8b-36a7cb8b4fbe
+2024/09/09 10:09:24.606698 main.go:55: [GORM] Created author with ID: 1c7211ea-3a51-4ab6-b0ce-2ceb0e3e6fe3
+2024/09/09 10:09:24.609667 main.go:55: [GORM] Created author with ID: cb840678-9597-43a5-8941-9e101b37a67f
+2024/09/09 10:09:24.613154 main.go:55: [GORM] Created author with ID: 902bbd18-ec44-49d8-ad1d-6a93ef57120b
+2024/09/09 10:09:24.616615 main.go:55: [GORM] Created author with ID: 328f07a4-f03e-4e69-af4d-b404b10348a3
+2024/09/09 10:09:24.619399 main.go:55: [GORM] Created author with ID: a57cd76e-905c-466c-b87d-384eae69fe55
+2024/09/09 10:09:24.622223 main.go:55: [GORM] Created author with ID: 8a20d820-4512-494c-b05b-4f15e2d20e18
+2024/09/09 10:09:24.625231 main.go:55: [GORM] Created author with ID: a5afb47b-86a2-4ba6-bb08-d6df432dd032
+2024/09/09 10:09:24.628564 main.go:55: [GORM] Created author with ID: 359424a7-282b-4772-a15b-3628a9569ed5
+2024/09/09 10:09:24.631329 main.go:55: [GORM] Created author with ID: 3964d503-d3c7-420f-a28e-eebf9046eb4d
+2024/09/09 10:09:24.634200 main.go:55: [GORM] Created author with ID: b95e269f-0e1b-4978-bf55-ccf007562b21
+2024/09/09 10:09:24.636929 main.go:55: [GORM] Created author with ID: ddf616b0-5674-4a96-85db-1009609e2890
+2024/09/09 10:09:24.639826 main.go:55: [GORM] Created author with ID: 4fc1f610-07ee-44de-9cb2-c1c22c131ecc
+2024/09/09 10:09:24.642766 main.go:55: [GORM] Created author with ID: 5c098861-ddd4-49a2-9810-cfb58ba3549c
+2024/09/09 10:09:24.646075 main.go:55: [GORM] Created author with ID: 452a3b69-bfa2-40d4-a5a7-6df494c78515
+2024/09/09 10:09:24.648739 main.go:55: [GORM] Created author with ID: dc0cc5e5-88b9-4fe2-a179-95466ccbd349
+2024/09/09 10:09:24.651927 main.go:55: [GORM] Created author with ID: 1acfc35f-f0af-45f3-b3af-16f7183890a0
+2024/09/09 10:09:24.654606 main.go:55: [GORM] Created author with ID: faff9f7a-b302-41aa-9ca4-1ba3c4b2d207
+2024/09/09 10:09:24.657789 main.go:55: [GORM] Created author with ID: 895183e8-f4c7-4b89-8b19-78c72a3dd841
+2024/09/09 10:09:24.660940 main.go:55: [GORM] Created author with ID: c08f2561-4eee-4767-b9a8-e6b185b9db61
+2024/09/09 10:09:24.664091 main.go:55: [GORM] Created author with ID: d0cb8967-6cae-4f33-a42f-abdbf67a8619
+2024/09/09 10:09:24.666771 main.go:55: [GORM] Created author with ID: 56fd9364-61cf-4a30-8b7f-a207f0ceca78
+2024/09/09 10:09:24.669548 main.go:55: [GORM] Created author with ID: 5d59bada-f3ca-4a1d-b147-00fb30e172ff
+2024/09/09 10:09:24.672536 main.go:55: [GORM] Created author with ID: b904fb34-fb39-498a-9872-68ee8bc9ffeb
+2024/09/09 10:09:24.675804 main.go:55: [GORM] Created author with ID: 62d2a3e3-b91c-4a2b-a0a6-5b03994a57d1
+2024/09/09 10:09:24.679165 main.go:55: [GORM] Created author with ID: 1d4b81aa-9bde-47b0-a8f5-fd3e05a44a6f
+2024/09/09 10:09:24.682065 main.go:55: [GORM] Created author with ID: f3ca9c3f-67a3-42e2-af6a-38cdf96f48dc
+2024/09/09 10:09:24.684735 main.go:55: [GORM] Created author with ID: 788e9bb6-8aa9-424a-b9f2-b2416224fa48
+2024/09/09 10:09:24.687868 main.go:55: [GORM] Created author with ID: 1075ec28-8114-4fe2-bb6b-5e54800c0eb0
+2024/09/09 10:09:24.691054 main.go:55: [GORM] Created author with ID: c68a72ff-4375-438f-946e-c11e55caba30
+2024/09/09 10:09:24.694049 main.go:55: [GORM] Created author with ID: 524ab19f-e0f0-4dc5-b9e3-5c716550be21
+2024/09/09 10:09:24.696865 main.go:55: [GORM] Created author with ID: 79f04da7-e8b8-45ed-b932-d629787d8be9
+2024/09/09 10:09:24.700924 main.go:55: [GORM] Created author with ID: 9582be07-0cbe-484a-aa29-580346de5e05
+2024/09/09 10:09:24.709770 main.go:55: [GORM] Created author with ID: d9c7aebe-29dc-4179-9571-f35af45fe398
+2024/09/09 10:09:24.715924 main.go:55: [GORM] Created author with ID: 749b35f0-1e10-4961-af95-9ceaab8f14d1
+2024/09/09 10:09:24.721438 main.go:55: [GORM] Created author with ID: 0fbf48af-9bd7-4674-b575-a48028ad9fb2
+2024/09/09 10:09:24.726607 main.go:55: [GORM] Created author with ID: 2b590eed-b090-47d9-96c6-4dc347711242
+2024/09/09 10:09:24.730774 main.go:55: [GORM] Created author with ID: 9bc6d7a0-97c5-4546-ba86-a30b201c5b06
+2024/09/09 10:09:24.734901 main.go:55: [GORM] Created author with ID: 3cf3f520-2e7f-492e-b949-2c03e235a8ed
+2024/09/09 10:09:24.738795 main.go:55: [GORM] Created author with ID: e8fc1f8c-0495-45b9-9710-abe7f4a3791d
+2024/09/09 10:09:24.742095 main.go:55: [GORM] Created author with ID: 3003c4f7-253b-42ec-aeea-8e9f4e2cb080
+2024/09/09 10:09:24.745347 main.go:55: [GORM] Created author with ID: 0e82e951-87be-46dc-9502-314911a37bbc
+2024/09/09 10:09:24.748101 main.go:55: [GORM] Created author with ID: 2c95f556-d0d1-4a0c-b64e-3ffd2fce955b
+2024/09/09 10:09:24.751606 main.go:55: [GORM] Created author with ID: 5fc0fe27-42f6-4bf0-a6f4-0f18369d285a
+2024/09/09 10:09:24.754901 main.go:55: [GORM] Created author with ID: 6982fa33-fa58-4332-a0ae-5b56cb1d2d4a
+2024/09/09 10:09:24.757912 main.go:55: [GORM] Created author with ID: d6f257cb-a781-4182-abc7-037132db6373
+2024/09/09 10:09:24.760686 main.go:55: [GORM] Created author with ID: fb86188e-e4f0-4eca-8c5b-269a1aa5773d
+2024/09/09 10:09:24.763484 main.go:55: [GORM] Created author with ID: 5947228b-c83a-489f-b78f-6196980a7da1
+2024/09/09 10:09:24.766525 main.go:55: [GORM] Created author with ID: 46c27bb9-1210-4f67-92e2-ebba4bfd66e7
+2024/09/09 10:09:24.769839 main.go:55: [GORM] Created author with ID: 66cc48e0-5103-468b-9851-f3d40355aab6
+2024/09/09 10:09:24.772982 main.go:55: [GORM] Created author with ID: eeac960b-637a-44ff-8782-a613389fca34
+2024/09/09 10:09:24.775948 main.go:55: [GORM] Created author with ID: e33e742c-db54-4183-baba-c88acd9ffe17
+2024/09/09 10:09:24.778661 main.go:55: [GORM] Created author with ID: 7f915074-c363-4363-af54-07c1e7553b5d
+2024/09/09 10:09:24.781778 main.go:55: [GORM] Created author with ID: ee3f7b40-8f56-4871-91c2-e34fed84660d
+2024/09/09 10:09:24.785114 main.go:55: [GORM] Created author with ID: dba6de01-b5f1-49a1-a806-b6fb5f0bc6d2
+2024/09/09 10:09:24.786796 main.go:69: [GORM] Retrieved author with ID: 9a4f3642-ed53-4a4a-8708-2b402af837c8
+2024/09/09 10:09:24.787408 main.go:69: [GORM] Retrieved author with ID: 524ab19f-e0f0-4dc5-b9e3-5c716550be21
+2024/09/09 10:09:24.788052 main.go:66: [GORM] Failed to get author (ID: 3d30ea31-ae14-4962-bd78-32cc93cfa99b): record not found
+2024/09/09 10:09:24.788686 main.go:66: [GORM] Failed to get author (ID: 1989e2ea-f06d-47d6-a0ff-40ff9b839ea7): record not found
+2024/09/09 10:09:24.789318 main.go:66: [GORM] Failed to get author (ID: 31341472-fa56-42c3-a396-b99fcbf851bd): record not found
+2024/09/09 10:09:24.789945 main.go:66: [GORM] Failed to get author (ID: 60bbd20c-049b-4920-a509-40747db87a6b): record not found
+2024/09/09 10:09:24.790615 main.go:69: [GORM] Retrieved author with ID: 5cb84701-20c7-4293-bcdb-624293e5842d
+2024/09/09 10:09:24.791244 main.go:69: [GORM] Retrieved author with ID: e8fc1f8c-0495-45b9-9710-abe7f4a3791d
+2024/09/09 10:09:24.791975 main.go:66: [GORM] Failed to get author (ID: 1e5db2c8-9720-4421-baa6-2802d15e5f76): record not found
+2024/09/09 10:09:24.792706 main.go:69: [GORM] Retrieved author with ID: 0523169b-7138-4b3f-8912-45bb881a1149
+2024/09/09 10:09:24.793379 main.go:69: [GORM] Retrieved author with ID: 871cae36-e4ae-4984-94eb-14ff76506475
+2024/09/09 10:09:24.793971 main.go:69: [GORM] Retrieved author with ID: 724674e6-1c5b-433c-94ff-0743d0caa7f7
+2024/09/09 10:09:24.794586 main.go:69: [GORM] Retrieved author with ID: 9bc6d7a0-97c5-4546-ba86-a30b201c5b06
+2024/09/09 10:09:24.795122 main.go:69: [GORM] Retrieved author with ID: 66e4debd-afee-424c-982a-97a25132f1ea
+2024/09/09 10:09:24.795815 main.go:69: [GORM] Retrieved author with ID: 08896a90-29f7-44d5-8492-44942a7810fb
+2024/09/09 10:09:24.796582 main.go:69: [GORM] Retrieved author with ID: 788e9bb6-8aa9-424a-b9f2-b2416224fa48
+2024/09/09 10:09:24.797456 main.go:66: [GORM] Failed to get author (ID: 0ae90919-e1f9-49e2-8604-285f1d3ef932): record not found
+2024/09/09 10:09:24.798337 main.go:66: [GORM] Failed to get author (ID: 35ba6d75-d227-4743-854d-67f8e19231c1): record not found
+2024/09/09 10:09:24.799024 main.go:66: [GORM] Failed to get author (ID: 738b0c25-019d-49c4-a1ce-775b9b8af0dc): record not found
+2024/09/09 10:09:24.799697 main.go:69: [GORM] Retrieved author with ID: 47800b3a-8f1c-43f6-b6cc-b4226e3ef9d2
+2024/09/09 10:09:24.800286 main.go:69: [GORM] Retrieved author with ID: f8dc4907-52ad-408b-bbd0-f22c179f0e31
+2024/09/09 10:09:24.801075 main.go:69: [GORM] Retrieved author with ID: 2b590eed-b090-47d9-96c6-4dc347711242
+2024/09/09 10:09:24.801978 main.go:69: [GORM] Retrieved author with ID: 46c27bb9-1210-4f67-92e2-ebba4bfd66e7
+2024/09/09 10:09:24.802904 main.go:66: [GORM] Failed to get author (ID: 6ee18f92-0dac-443f-bb5f-dc78a6c7bdc3): record not found
+2024/09/09 10:09:24.803888 main.go:66: [GORM] Failed to get author (ID: cab6a021-34e9-4502-929f-a9b5e1229b20): record not found
+2024/09/09 10:09:24.804723 main.go:66: [GORM] Failed to get author (ID: 5136134e-3f4b-4d51-87a3-61b275ae636c): record not found
+2024/09/09 10:09:24.805402 main.go:66: [GORM] Failed to get author (ID: ddbd6cab-47d8-4cde-b562-31f407fb983a): record not found
+2024/09/09 10:09:24.806078 main.go:69: [GORM] Retrieved author with ID: 0fbf48af-9bd7-4674-b575-a48028ad9fb2
+2024/09/09 10:09:24.806864 main.go:66: [GORM] Failed to get author (ID: 26d1d650-ecd8-40d5-a9d5-677b654ebdbe): record not found
+2024/09/09 10:09:24.807576 main.go:66: [GORM] Failed to get author (ID: 2f91909a-2e4d-4649-9867-1fe8e66356bf): record not found
+2024/09/09 10:09:24.808414 main.go:69: [GORM] Retrieved author with ID: 9309fa71-87ad-4be0-bae4-55442c3213f5
+2024/09/09 10:09:24.809159 main.go:69: [GORM] Retrieved author with ID: 7efeda5c-1123-472d-a889-addf02c98d6f
+2024/09/09 10:09:24.809864 main.go:69: [GORM] Retrieved author with ID: d0cb8967-6cae-4f33-a42f-abdbf67a8619
+2024/09/09 10:09:24.810574 main.go:66: [GORM] Failed to get author (ID: f7fa7fc6-e1f6-4c59-af17-7ea23afcd317): record not found
+2024/09/09 10:09:24.811374 main.go:66: [GORM] Failed to get author (ID: dd32c628-b08e-433b-b387-d0122823826c): record not found
+2024/09/09 10:09:24.812164 main.go:69: [GORM] Retrieved author with ID: 8b195883-6b4e-4092-953d-d0aa5a4e6309
+2024/09/09 10:09:24.812987 main.go:69: [GORM] Retrieved author with ID: 2c95f556-d0d1-4a0c-b64e-3ffd2fce955b
+2024/09/09 10:09:24.813652 main.go:69: [GORM] Retrieved author with ID: f936e0a4-2e59-4674-ae8b-36a7cb8b4fbe
+2024/09/09 10:09:24.814320 main.go:69: [GORM] Retrieved author with ID: faff9f7a-b302-41aa-9ca4-1ba3c4b2d207
+2024/09/09 10:09:24.815112 main.go:69: [GORM] Retrieved author with ID: f3ca9c3f-67a3-42e2-af6a-38cdf96f48dc
+2024/09/09 10:09:24.816140 main.go:69: [GORM] Retrieved author with ID: e33e742c-db54-4183-baba-c88acd9ffe17
+2024/09/09 10:09:24.816758 main.go:69: [GORM] Retrieved author with ID: 5fc0fe27-42f6-4bf0-a6f4-0f18369d285a
+2024/09/09 10:09:24.817488 main.go:66: [GORM] Failed to get author (ID: e5fe3081-c668-45f5-bbc7-95720d7f6017): record not found
+2024/09/09 10:09:24.818449 main.go:66: [GORM] Failed to get author (ID: f85d9307-84ac-4bfa-8ed3-390ff9ba1dfc): record not found
+2024/09/09 10:09:24.819337 main.go:66: [GORM] Failed to get author (ID: 5b3f65b2-a73c-4e5f-a391-4693f412f8a4): record not found
+2024/09/09 10:09:24.820257 main.go:66: [GORM] Failed to get author (ID: 0584a294-064b-4076-bea7-794eed04233e): record not found
+2024/09/09 10:09:24.821097 main.go:66: [GORM] Failed to get author (ID: 19d6854e-585d-4e3d-9530-8a47856cb2d6): record not found
+2024/09/09 10:09:24.821885 main.go:69: [GORM] Retrieved author with ID: ea1edf79-1178-4668-96d9-af4442f1a51f
+2024/09/09 10:09:24.822614 main.go:69: [GORM] Retrieved author with ID: 8b745fd7-4b24-4273-b14f-b5bea8c59393
+2024/09/09 10:09:24.823203 main.go:69: [GORM] Retrieved author with ID: c68a72ff-4375-438f-946e-c11e55caba30
+2024/09/09 10:09:24.823882 main.go:66: [GORM] Failed to get author (ID: 16fca503-b079-4f25-a669-a90efeee2a85): record not found
+2024/09/09 10:09:24.824613 main.go:66: [GORM] Failed to get author (ID: 1b746b4d-b6f6-4231-8dd4-32ce63528ea8): record not found
+2024/09/09 10:09:24.825424 main.go:66: [GORM] Failed to get author (ID: fda923a5-19f2-48ef-91dd-549ce6180be8): record not found
+2024/09/09 10:09:24.826285 main.go:66: [GORM] Failed to get author (ID: 6e124317-9080-4902-a588-2da1a3fcc291): record not found
+2024/09/09 10:09:24.827392 main.go:66: [GORM] Failed to get author (ID: a7478f57-8d28-48d2-abeb-7b729535a9aa): record not found
+2024/09/09 10:09:24.828218 main.go:69: [GORM] Retrieved author with ID: 93f6fdce-af37-4dd0-85ed-0bfcbe8c13ee
+2024/09/09 10:09:24.828933 main.go:69: [GORM] Retrieved author with ID: 1c7211ea-3a51-4ab6-b0ce-2ceb0e3e6fe3
+2024/09/09 10:09:24.829608 main.go:69: [GORM] Retrieved author with ID: 895183e8-f4c7-4b89-8b19-78c72a3dd841
+2024/09/09 10:09:24.830238 main.go:66: [GORM] Failed to get author (ID: 7182177d-64f7-471d-ab54-2a621cfc6f79): record not found
+2024/09/09 10:09:24.830928 main.go:66: [GORM] Failed to get author (ID: 22125341-6a09-4ef1-8974-26f400915f14): record not found
+2024/09/09 10:09:24.831581 main.go:66: [GORM] Failed to get author (ID: 1e64ec84-e46e-490f-ad6a-add494d0bfb3): record not found
+2024/09/09 10:09:24.832329 main.go:69: [GORM] Retrieved author with ID: 8cdf3a99-db55-40c1-a537-ea5b7de37fb7
+2024/09/09 10:09:24.833162 main.go:69: [GORM] Retrieved author with ID: 4fafb3c5-1f6f-4bc1-8b5a-242c31a5b94b
+2024/09/09 10:09:24.834048 main.go:69: [GORM] Retrieved author with ID: 749b35f0-1e10-4961-af95-9ceaab8f14d1
+2024/09/09 10:09:24.834810 main.go:69: [GORM] Retrieved author with ID: 79f04da7-e8b8-45ed-b932-d629787d8be9
+2024/09/09 10:09:24.835496 main.go:66: [GORM] Failed to get author (ID: 1bdfca67-f03c-48d1-bc5c-bd2dcd84bdb3): record not found
+2024/09/09 10:09:24.836273 main.go:66: [GORM] Failed to get author (ID: ea5947e1-d354-4bfa-b107-bcb2ac390afa): record not found
+2024/09/09 10:09:24.836995 main.go:66: [GORM] Failed to get author (ID: fde6f181-c2af-4d32-9f23-27cdeec64e87): record not found
+2024/09/09 10:09:24.837778 main.go:66: [GORM] Failed to get author (ID: bc110354-fd50-4130-8475-16ba608f0fe5): record not found
+2024/09/09 10:09:24.838499 main.go:69: [GORM] Retrieved author with ID: ddf616b0-5674-4a96-85db-1009609e2890
+2024/09/09 10:09:24.839316 main.go:69: [GORM] Retrieved author with ID: 800aeceb-bad2-414d-aa70-c75bf2fa46a0
+2024/09/09 10:09:24.840070 main.go:69: [GORM] Retrieved author with ID: 56fd9364-61cf-4a30-8b7f-a207f0ceca78
+2024/09/09 10:09:24.840733 main.go:69: [GORM] Retrieved author with ID: 3003c4f7-253b-42ec-aeea-8e9f4e2cb080
+2024/09/09 10:09:24.841345 main.go:66: [GORM] Failed to get author (ID: af9086fb-3ffa-4d67-b260-43e4cdc40c6e): record not found
+2024/09/09 10:09:24.841958 main.go:66: [GORM] Failed to get author (ID: 7e63e232-6501-4b5d-9622-7eccff236877): record not found
+2024/09/09 10:09:24.842635 main.go:66: [GORM] Failed to get author (ID: 5e4d62c1-dc85-4548-a31b-b76d98e6512c): record not found
+2024/09/09 10:09:24.843399 main.go:66: [GORM] Failed to get author (ID: f570f7dc-a56e-4b31-80a0-fd44fe4073ae): record not found
+2024/09/09 10:09:24.844307 main.go:66: [GORM] Failed to get author (ID: 1c54ca52-fc2e-4983-b218-28f118580e58): record not found
+2024/09/09 10:09:24.845127 main.go:69: [GORM] Retrieved author with ID: d6f257cb-a781-4182-abc7-037132db6373
+2024/09/09 10:09:24.845785 main.go:69: [GORM] Retrieved author with ID: fb86188e-e4f0-4eca-8c5b-269a1aa5773d
+2024/09/09 10:09:24.846479 main.go:69: [GORM] Retrieved author with ID: 0e82e951-87be-46dc-9502-314911a37bbc
+2024/09/09 10:09:24.847121 main.go:69: [GORM] Retrieved author with ID: 66cc48e0-5103-468b-9851-f3d40355aab6
+2024/09/09 10:09:24.847871 main.go:66: [GORM] Failed to get author (ID: c2fe12a2-f0ee-4876-98b5-b64b1e342916): record not found
+2024/09/09 10:09:24.848703 main.go:66: [GORM] Failed to get author (ID: 948a8a16-84a7-462a-b6c1-9b136fe671c1): record not found
+2024/09/09 10:09:24.849661 main.go:66: [GORM] Failed to get author (ID: 0efeff20-21a1-4b8f-b269-486da02479ca): record not found
+2024/09/09 10:09:24.850618 main.go:66: [GORM] Failed to get author (ID: 48c661ed-e13e-4fbf-94a3-3f5e18b55ec2): record not found
+2024/09/09 10:09:24.851344 main.go:66: [GORM] Failed to get author (ID: 12c5674a-7833-4a06-a807-861ff16f41e3): record not found
+2024/09/09 10:09:24.851991 main.go:66: [GORM] Failed to get author (ID: f651c7dc-d6f7-46f1-adb4-80a41cbe1ff3): record not found
+2024/09/09 10:09:24.853481 main.go:69: [GORM] Retrieved author with ID: f857dca8-8d5b-4b13-8800-921006644e5e
+2024/09/09 10:09:24.854619 main.go:69: [GORM] Retrieved author with ID: 1075ec28-8114-4fe2-bb6b-5e54800c0eb0
+2024/09/09 10:09:24.856053 main.go:66: [GORM] Failed to get author (ID: 19c09fcc-b566-47f8-8ce3-1b7eb286351e): record not found
+2024/09/09 10:09:24.857068 main.go:66: [GORM] Failed to get author (ID: 8fe21019-1420-4aca-81da-ff9c232789a9): record not found
+2024/09/09 10:09:24.857769 main.go:69: [GORM] Retrieved author with ID: 24a345cb-2d52-4db8-8aac-e9510312a7e3
+2024/09/09 10:09:24.858733 main.go:69: [GORM] Retrieved author with ID: 328f07a4-f03e-4e69-af4d-b404b10348a3
+2024/09/09 10:09:24.859615 main.go:66: [GORM] Failed to get author (ID: 94a4e65d-fdfa-457d-85f1-f8eedf6e9acc): record not found
+2024/09/09 10:09:24.860447 main.go:69: [GORM] Retrieved author with ID: 9e664155-c24b-4909-86ad-a7e1d340b5f7
+2024/09/09 10:09:24.861300 main.go:69: [GORM] Retrieved author with ID: 13f1c90e-3397-4834-bcbb-2e5f50f03a1a
+2024/09/09 10:09:24.862193 main.go:69: [GORM] Retrieved author with ID: a5afb47b-86a2-4ba6-bb08-d6df432dd032
+2024/09/09 10:09:24.862966 main.go:66: [GORM] Failed to get author (ID: ae402cda-b175-44ba-9210-ea2a78cc523c): record not found
+2024/09/09 10:09:24.863554 main.go:66: [GORM] Failed to get author (ID: fc8a369b-24d2-48eb-90e3-dc4d29621ade): record not found
+2024/09/09 10:09:24.864209 main.go:69: [GORM] Retrieved author with ID: e1dcbb08-9253-4624-b45f-1345fdb494e4
+2024/09/09 10:09:24.865151 main.go:66: [GORM] Failed to get author (ID: 987f9fd8-2822-4c41-b0b8-64951447b317): record not found
+2024/09/09 10:09:24.866078 main.go:66: [GORM] Failed to get author (ID: 01e7c3d3-febf-4436-84ae-c9f52dfb9a4e): record not found
+2024/09/09 10:09:24.866973 main.go:66: [GORM] Failed to get author (ID: 6a9acaa2-2170-415d-a4ad-4aedfc369978): record not found
+2024/09/09 10:09:24.867816 main.go:66: [GORM] Failed to get author (ID: 698e4109-0c3d-4203-8452-edf80e91bb5a): record not found
+2024/09/09 10:09:24.868557 main.go:66: [GORM] Failed to get author (ID: a7179ea1-6a26-48c4-8894-5dc78a7619f9): record not found
+2024/09/09 10:09:24.869275 main.go:69: [GORM] Retrieved author with ID: dc0cc5e5-88b9-4fe2-a179-95466ccbd349
+2024/09/09 10:09:24.869918 main.go:69: [GORM] Retrieved author with ID: 05477016-3b57-4c4e-94d3-2a1bfd09e320
+2024/09/09 10:09:24.870586 main.go:69: [GORM] Retrieved author with ID: e157808e-47d3-476b-9f84-86fa9fd8c2fb
+2024/09/09 10:09:24.871239 main.go:69: [GORM] Retrieved author with ID: 22368a62-3477-47d3-8e17-78e2ecc42686
+2024/09/09 10:09:24.871859 main.go:69: [GORM] Retrieved author with ID: 0d22f80c-9703-4143-bb71-51d57e7bdc62
+2024/09/09 10:09:24.872610 main.go:69: [GORM] Retrieved author with ID: f98935a8-dec2-4069-846e-9f9f78d9ad91
+2024/09/09 10:09:24.873411 main.go:66: [GORM] Failed to get author (ID: e6bff0e4-75df-49a2-b4d6-8690e6abb6c7): record not found
+2024/09/09 10:09:24.874097 main.go:69: [GORM] Retrieved author with ID: 74703228-1101-431a-ab5a-4c59db0b1ed7
+2024/09/09 10:09:24.874797 main.go:69: [GORM] Retrieved author with ID: 359424a7-282b-4772-a15b-3628a9569ed5
+2024/09/09 10:09:24.875625 main.go:66: [GORM] Failed to get author (ID: 31fe5d2e-1ccb-479a-97b9-bf920db8e2dc): record not found
+2024/09/09 10:09:24.876280 main.go:66: [GORM] Failed to get author (ID: d0c02b3e-2df9-44d5-b1cc-c737d1d60114): record not found
+2024/09/09 10:09:24.877060 main.go:66: [GORM] Failed to get author (ID: 5c70987e-5270-473e-bf05-d78d6532a765): record not found
+2024/09/09 10:09:24.878011 main.go:66: [GORM] Failed to get author (ID: f0d8f926-5679-4019-af7f-9b19dc67a160): record not found
+2024/09/09 10:09:24.878791 main.go:66: [GORM] Failed to get author (ID: 1df1aeb0-1280-4a58-a642-2de24126fadb): record not found
+2024/09/09 10:09:24.879373 main.go:69: [GORM] Retrieved author with ID: 4fc1f610-07ee-44de-9cb2-c1c22c131ecc
+2024/09/09 10:09:24.879982 main.go:69: [GORM] Retrieved author with ID: 452a3b69-bfa2-40d4-a5a7-6df494c78515
+2024/09/09 10:09:24.880907 main.go:66: [GORM] Failed to get author (ID: 274295ba-d840-48c6-ac89-c850597bbe82): record not found
+2024/09/09 10:09:24.881834 main.go:69: [GORM] Retrieved author with ID: 1bddbd82-a2d5-47eb-9415-7ed075baaac2
+2024/09/09 10:09:24.882975 main.go:69: [GORM] Retrieved author with ID: e0dca297-cd0d-4f2b-bb50-4d2328a7de88
+2024/09/09 10:09:24.883713 main.go:69: [GORM] Retrieved author with ID: d9c7aebe-29dc-4179-9571-f35af45fe398
+2024/09/09 10:09:24.884351 main.go:69: [GORM] Retrieved author with ID: 6982fa33-fa58-4332-a0ae-5b56cb1d2d4a
+2024/09/09 10:09:24.885072 main.go:66: [GORM] Failed to get author (ID: 57763f36-3f92-4285-a606-ff84ac206476): record not found
+2024/09/09 10:09:24.885738 main.go:66: [GORM] Failed to get author (ID: 70059c5d-c5a2-47e5-b977-52f0a9d17326): record not found
+2024/09/09 10:09:24.886301 main.go:66: [GORM] Failed to get author (ID: 4d74c41b-ae46-4432-95d9-78c5da26753a): record not found
+2024/09/09 10:09:24.886864 main.go:69: [GORM] Retrieved author with ID: eeac960b-637a-44ff-8782-a613389fca34
+2024/09/09 10:09:24.887469 main.go:69: [GORM] Retrieved author with ID: dba6de01-b5f1-49a1-a806-b6fb5f0bc6d2
+2024/09/09 10:09:24.888299 main.go:66: [GORM] Failed to get author (ID: 511c42b0-5210-46f1-a046-4cf5ed18cabb): record not found
+2024/09/09 10:09:24.889196 main.go:66: [GORM] Failed to get author (ID: 0ed1629c-8034-4fd9-895f-c44587f5c905): record not found
+2024/09/09 10:09:24.889989 main.go:66: [GORM] Failed to get author (ID: b429e553-d85b-4488-9b72-0dced39d639b): record not found
+2024/09/09 10:09:24.890683 main.go:69: [GORM] Retrieved author with ID: b904fb34-fb39-498a-9872-68ee8bc9ffeb
+2024/09/09 10:09:24.891316 main.go:69: [GORM] Retrieved author with ID: 5947228b-c83a-489f-b78f-6196980a7da1
+2024/09/09 10:09:24.892054 main.go:69: [GORM] Retrieved author with ID: ee3f7b40-8f56-4871-91c2-e34fed84660d
+2024/09/09 10:09:24.892889 main.go:66: [GORM] Failed to get author (ID: 1cae75b1-dcf1-41cf-aa89-8da72b0620f8): record not found
+2024/09/09 10:09:24.893656 main.go:66: [GORM] Failed to get author (ID: b2b25ada-167f-4e3f-af67-f0be01d85deb): record not found
+2024/09/09 10:09:24.894508 main.go:66: [GORM] Failed to get author (ID: 0be6604e-a460-478c-aadf-2e1597e1d54c): record not found
+2024/09/09 10:09:24.895272 main.go:69: [GORM] Retrieved author with ID: e1540e71-a4e7-4f5e-8a5a-60df95a98c3b
+2024/09/09 10:09:24.895954 main.go:69: [GORM] Retrieved author with ID: cb840678-9597-43a5-8941-9e101b37a67f
+2024/09/09 10:09:24.896592 main.go:66: [GORM] Failed to get author (ID: 4f0b403f-ec71-4f10-b51b-1e285b390dfe): record not found
+2024/09/09 10:09:24.897323 main.go:66: [GORM] Failed to get author (ID: 5a3be7a7-19bb-41f7-8a35-925603f2fe51): record not found
+2024/09/09 10:09:24.898264 main.go:66: [GORM] Failed to get author (ID: dd3f702f-7dd9-46aa-81ef-fb41fd648d8f): record not found
+2024/09/09 10:09:24.899077 main.go:69: [GORM] Retrieved author with ID: 231d9c82-05a9-4790-a1aa-42881fe5e198
+2024/09/09 10:09:24.899704 main.go:69: [GORM] Retrieved author with ID: 28bb7fbc-1ed6-486f-b2dd-8923cc8ae34e
+2024/09/09 10:09:24.900727 main.go:66: [GORM] Failed to get author (ID: d6f79c23-9469-4a28-b764-de2cbf34211f): record not found
+2024/09/09 10:09:24.901489 main.go:69: [GORM] Retrieved author with ID: e516bc0a-67bb-4f7d-83f8-3644e4514bb1
+2024/09/09 10:09:24.902213 main.go:69: [GORM] Retrieved author with ID: 5d59bada-f3ca-4a1d-b147-00fb30e172ff
+2024/09/09 10:09:24.902863 main.go:66: [GORM] Failed to get author (ID: 44199ad7-8e4d-4665-b276-3f567e18fc40): record not found
+2024/09/09 10:09:24.903522 main.go:66: [GORM] Failed to get author (ID: 0ed6638a-8024-400d-83e2-7bd5d240e710): record not found
+2024/09/09 10:09:24.904174 main.go:69: [GORM] Retrieved author with ID: 902bbd18-ec44-49d8-ad1d-6a93ef57120b
+2024/09/09 10:09:24.905007 main.go:66: [GORM] Failed to get author (ID: 812519af-578b-4551-b87c-3ca65e17d71a): record not found
+2024/09/09 10:09:24.905762 main.go:69: [GORM] Retrieved author with ID: 75e5c20d-903d-4300-bbd0-5237fead6e6a
+2024/09/09 10:09:24.906592 main.go:69: [GORM] Retrieved author with ID: 5c098861-ddd4-49a2-9810-cfb58ba3549c
+2024/09/09 10:09:24.907284 main.go:69: [GORM] Retrieved author with ID: 1d4b81aa-9bde-47b0-a8f5-fd3e05a44a6f
+2024/09/09 10:09:24.907983 main.go:66: [GORM] Failed to get author (ID: ef5ddbb4-60c4-4818-aec4-117776af3497): record not found
+2024/09/09 10:09:24.908862 main.go:66: [GORM] Failed to get author (ID: 7e11f061-d97d-45a2-aa9e-d37bba3690f2): record not found
+2024/09/09 10:09:24.909511 main.go:66: [GORM] Failed to get author (ID: 9dbafff1-c6c7-4d63-8551-853ed16ea04d): record not found
+2024/09/09 10:09:24.910324 main.go:69: [GORM] Retrieved author with ID: b95e269f-0e1b-4978-bf55-ccf007562b21
+2024/09/09 10:09:24.911242 main.go:69: [GORM] Retrieved author with ID: 1acfc35f-f0af-45f3-b3af-16f7183890a0
+2024/09/09 10:09:24.912061 main.go:66: [GORM] Failed to get author (ID: 50a38277-fb3b-4ce5-88b2-7f82b5a77de4): record not found
+2024/09/09 10:09:24.912839 main.go:66: [GORM] Failed to get author (ID: 8c01c62b-1697-46a7-930f-56cdfbba6bdb): record not found
+2024/09/09 10:09:24.913606 main.go:69: [GORM] Retrieved author with ID: 6cfe26d4-6690-4641-a703-18c7d5a50bba
+2024/09/09 10:09:24.914195 main.go:69: [GORM] Retrieved author with ID: 2aa87938-0640-444d-ba2c-7e4b17feee23
+2024/09/09 10:09:24.914778 main.go:69: [GORM] Retrieved author with ID: 785bf98c-8e1e-4b0f-92b8-1eb7ba439e4d
+2024/09/09 10:09:24.915602 main.go:69: [GORM] Retrieved author with ID: 0945167b-f725-45b9-89b9-bc0ad938c4cc
+2024/09/09 10:09:24.916442 main.go:69: [GORM] Retrieved author with ID: a57cd76e-905c-466c-b87d-384eae69fe55
+2024/09/09 10:09:24.917091 main.go:69: [GORM] Retrieved author with ID: 8a20d820-4512-494c-b05b-4f15e2d20e18
+2024/09/09 10:09:24.917694 main.go:66: [GORM] Failed to get author (ID: 753051f8-7dd2-4e31-849e-106085ea1190): record not found
+2024/09/09 10:09:24.918316 main.go:66: [GORM] Failed to get author (ID: 8245739e-594e-432b-8bef-89adc659177f): record not found
+2024/09/09 10:09:24.919107 main.go:66: [GORM] Failed to get author (ID: 97657d9b-2f15-4e93-80fd-1da9feca663b): record not found
+2024/09/09 10:09:24.919740 main.go:66: [GORM] Failed to get author (ID: 9a7c75e0-9cef-4c67-94d0-340bbd11154d): record not found
+2024/09/09 10:09:24.920277 main.go:66: [GORM] Failed to get author (ID: d13891db-ef67-4504-9fba-6ee45910f6dc): record not found
+2024/09/09 10:09:24.921202 main.go:69: [GORM] Retrieved author with ID: c08f2561-4eee-4767-b9a8-e6b185b9db61
+2024/09/09 10:09:24.921947 main.go:69: [GORM] Retrieved author with ID: 3cf3f520-2e7f-492e-b949-2c03e235a8ed
+2024/09/09 10:09:24.922680 main.go:69: [GORM] Retrieved author with ID: 7f915074-c363-4363-af54-07c1e7553b5d
+2024/09/09 10:09:24.923400 main.go:66: [GORM] Failed to get author (ID: 5591f555-4662-45ec-bb12-9eb7d49cc7e9): record not found
+2024/09/09 10:09:24.924082 main.go:66: [GORM] Failed to get author (ID: 92c6de5d-5275-471b-b7aa-ee88336a78f6): record not found
+2024/09/09 10:09:24.924736 main.go:69: [GORM] Retrieved author with ID: 3d4b966a-ec25-4550-81c5-41412a1cb54f
+2024/09/09 10:09:24.925478 main.go:69: [GORM] Retrieved author with ID: fb371f94-d3d0-4de5-9ac1-43a3ce6ceb22
+2024/09/09 10:09:24.926297 main.go:69: [GORM] Retrieved author with ID: 7fd2a3a9-36d5-4ebe-b598-32da30590206
+2024/09/09 10:09:24.927206 main.go:66: [GORM] Failed to get author (ID: 55d3e8c8-f907-4304-9ddf-e594e0bf4147): record not found
+2024/09/09 10:09:24.928028 main.go:66: [GORM] Failed to get author (ID: 56c7a99e-ae63-4c11-895a-6f99afd369a0): record not found
+2024/09/09 10:09:24.928702 main.go:66: [GORM] Failed to get author (ID: 5ccde8f0-44eb-4689-a6c1-6578aaffd623): record not found
+2024/09/09 10:09:24.929357 main.go:66: [GORM] Failed to get author (ID: 4e1aed80-dfab-4783-b0bc-cb81cd708801): record not found
+2024/09/09 10:09:24.930248 main.go:66: [GORM] Failed to get author (ID: e4a488d7-82fb-4ecc-a46e-6961e71f6986): record not found
+2024/09/09 10:09:24.931175 main.go:66: [GORM] Failed to get author (ID: f08af1bc-09f0-4933-81e6-ffb5723ea1f4): record not found
+2024/09/09 10:09:24.931990 main.go:66: [GORM] Failed to get author (ID: 1da3a93c-6ac0-498f-9b83-9d2647b3d14c): record not found
+2024/09/09 10:09:24.932712 main.go:66: [GORM] Failed to get author (ID: 936362dd-f64d-4384-a4a5-6e51f909513e): record not found
+2024/09/09 10:09:24.933307 main.go:69: [GORM] Retrieved author with ID: b22139b2-4365-475c-a499-0480a0c80f2e
+2024/09/09 10:09:24.933913 main.go:69: [GORM] Retrieved author with ID: 62d2a3e3-b91c-4a2b-a0a6-5b03994a57d1
+2024/09/09 10:09:24.934631 main.go:69: [GORM] Retrieved author with ID: 9582be07-0cbe-484a-aa29-580346de5e05
+2024/09/09 10:09:24.935244 main.go:66: [GORM] Failed to get author (ID: a0cece9f-1271-43e2-a784-5012d4696024): record not found
+2024/09/09 10:09:24.935830 main.go:66: [GORM] Failed to get author (ID: 0e265418-6810-41cf-b629-6c32f2790a55): record not found
+2024/09/09 10:09:24.936753 main.go:66: [GORM] Failed to get author (ID: 001633db-ae1b-4c76-ab82-d56173b1a0ce): record not found
+2024/09/09 10:09:24.937596 main.go:69: [GORM] Retrieved author with ID: efce6c15-2a8e-4516-825c-462f48d41cd8
+2024/09/09 10:09:24.938474 main.go:69: [GORM] Retrieved author with ID: 3964d503-d3c7-420f-a28e-eebf9046eb4d
+2024/09/09 10:09:24.943186 main.go:91: [GORM] Deleted author with ID: 94a4e65d-fdfa-457d-85f1-f8eedf6e9acc
+2024/09/09 10:09:24.946152 main.go:91: [GORM] Deleted author with ID: 9e664155-c24b-4909-86ad-a7e1d340b5f7
+2024/09/09 10:09:24.949151 main.go:91: [GORM] Deleted author with ID: 13f1c90e-3397-4834-bcbb-2e5f50f03a1a
+2024/09/09 10:09:24.954554 main.go:91: [GORM] Deleted author with ID: a5afb47b-86a2-4ba6-bb08-d6df432dd032
+2024/09/09 10:09:24.957028 main.go:91: [GORM] Deleted author with ID: ae402cda-b175-44ba-9210-ea2a78cc523c
+2024/09/09 10:09:24.966036 main.go:91: [GORM] Deleted author with ID: fc8a369b-24d2-48eb-90e3-dc4d29621ade
+2024/09/09 10:09:24.972832 main.go:91: [GORM] Deleted author with ID: e1dcbb08-9253-4624-b45f-1345fdb494e4
+2024/09/09 10:09:24.985334 main.go:91: [GORM] Deleted author with ID: 987f9fd8-2822-4c41-b0b8-64951447b317
+2024/09/09 10:09:24.987262 main.go:91: [GORM] Deleted author with ID: 01e7c3d3-febf-4436-84ae-c9f52dfb9a4e
+2024/09/09 10:09:24.989387 main.go:91: [GORM] Deleted author with ID: 6a9acaa2-2170-415d-a4ad-4aedfc369978
+2024/09/09 10:09:24.991540 main.go:91: [GORM] Deleted author with ID: 698e4109-0c3d-4203-8452-edf80e91bb5a
+2024/09/09 10:09:24.996518 main.go:91: [GORM] Deleted author with ID: a7179ea1-6a26-48c4-8894-5dc78a7619f9
+2024/09/09 10:09:25.005668 main.go:91: [GORM] Deleted author with ID: dc0cc5e5-88b9-4fe2-a179-95466ccbd349
+2024/09/09 10:09:25.009799 main.go:91: [GORM] Deleted author with ID: 05477016-3b57-4c4e-94d3-2a1bfd09e320
+2024/09/09 10:09:25.012990 main.go:91: [GORM] Deleted author with ID: e157808e-47d3-476b-9f84-86fa9fd8c2fb
+2024/09/09 10:09:25.016351 main.go:91: [GORM] Deleted author with ID: 22368a62-3477-47d3-8e17-78e2ecc42686
+2024/09/09 10:09:25.020578 main.go:91: [GORM] Deleted author with ID: 0d22f80c-9703-4143-bb71-51d57e7bdc62
+2024/09/09 10:09:25.024776 main.go:91: [GORM] Deleted author with ID: f98935a8-dec2-4069-846e-9f9f78d9ad91
+2024/09/09 10:09:25.026933 main.go:91: [GORM] Deleted author with ID: e6bff0e4-75df-49a2-b4d6-8690e6abb6c7
+2024/09/09 10:09:25.031429 main.go:91: [GORM] Deleted author with ID: 74703228-1101-431a-ab5a-4c59db0b1ed7
+2024/09/09 10:09:25.034749 main.go:91: [GORM] Deleted author with ID: 359424a7-282b-4772-a15b-3628a9569ed5
+2024/09/09 10:09:25.036759 main.go:91: [GORM] Deleted author with ID: 31fe5d2e-1ccb-479a-97b9-bf920db8e2dc
+2024/09/09 10:09:25.038422 main.go:91: [GORM] Deleted author with ID: d0c02b3e-2df9-44d5-b1cc-c737d1d60114
+2024/09/09 10:09:25.039995 main.go:91: [GORM] Deleted author with ID: 5c70987e-5270-473e-bf05-d78d6532a765
+2024/09/09 10:09:25.041528 main.go:91: [GORM] Deleted author with ID: f0d8f926-5679-4019-af7f-9b19dc67a160
+2024/09/09 10:09:25.043197 main.go:91: [GORM] Deleted author with ID: 1df1aeb0-1280-4a58-a642-2de24126fadb
+2024/09/09 10:09:25.045788 main.go:91: [GORM] Deleted author with ID: 4fc1f610-07ee-44de-9cb2-c1c22c131ecc
+2024/09/09 10:09:25.048880 main.go:91: [GORM] Deleted author with ID: 452a3b69-bfa2-40d4-a5a7-6df494c78515
+2024/09/09 10:09:25.050921 main.go:91: [GORM] Deleted author with ID: 274295ba-d840-48c6-ac89-c850597bbe82
+2024/09/09 10:09:25.054167 main.go:91: [GORM] Deleted author with ID: 1bddbd82-a2d5-47eb-9415-7ed075baaac2
+2024/09/09 10:09:25.056967 main.go:91: [GORM] Deleted author with ID: e0dca297-cd0d-4f2b-bb50-4d2328a7de88
+2024/09/09 10:09:25.060157 main.go:91: [GORM] Deleted author with ID: d9c7aebe-29dc-4179-9571-f35af45fe398
+2024/09/09 10:09:25.063138 main.go:91: [GORM] Deleted author with ID: 6982fa33-fa58-4332-a0ae-5b56cb1d2d4a
+2024/09/09 10:09:25.065389 main.go:91: [GORM] Deleted author with ID: 57763f36-3f92-4285-a606-ff84ac206476
+2024/09/09 10:09:25.067459 main.go:91: [GORM] Deleted author with ID: 70059c5d-c5a2-47e5-b977-52f0a9d17326
+2024/09/09 10:09:25.069345 main.go:91: [GORM] Deleted author with ID: 4d74c41b-ae46-4432-95d9-78c5da26753a
+2024/09/09 10:09:25.072809 main.go:91: [GORM] Deleted author with ID: eeac960b-637a-44ff-8782-a613389fca34
+2024/09/09 10:09:25.075676 main.go:91: [GORM] Deleted author with ID: dba6de01-b5f1-49a1-a806-b6fb5f0bc6d2
+2024/09/09 10:09:25.077739 main.go:91: [GORM] Deleted author with ID: 511c42b0-5210-46f1-a046-4cf5ed18cabb
+2024/09/09 10:09:25.079645 main.go:91: [GORM] Deleted author with ID: 0ed1629c-8034-4fd9-895f-c44587f5c905
+2024/09/09 10:09:25.081675 main.go:91: [GORM] Deleted author with ID: b429e553-d85b-4488-9b72-0dced39d639b
+2024/09/09 10:09:25.084857 main.go:91: [GORM] Deleted author with ID: b904fb34-fb39-498a-9872-68ee8bc9ffeb
+2024/09/09 10:09:25.087749 main.go:91: [GORM] Deleted author with ID: 5947228b-c83a-489f-b78f-6196980a7da1
+2024/09/09 10:09:25.090961 main.go:91: [GORM] Deleted author with ID: ee3f7b40-8f56-4871-91c2-e34fed84660d
+2024/09/09 10:09:25.092767 main.go:91: [GORM] Deleted author with ID: 1cae75b1-dcf1-41cf-aa89-8da72b0620f8
+2024/09/09 10:09:25.094560 main.go:91: [GORM] Deleted author with ID: b2b25ada-167f-4e3f-af67-f0be01d85deb
+2024/09/09 10:09:25.096586 main.go:91: [GORM] Deleted author with ID: 0be6604e-a460-478c-aadf-2e1597e1d54c
+2024/09/09 10:09:25.099442 main.go:91: [GORM] Deleted author with ID: e1540e71-a4e7-4f5e-8a5a-60df95a98c3b
+2024/09/09 10:09:25.102442 main.go:91: [GORM] Deleted author with ID: cb840678-9597-43a5-8941-9e101b37a67f
+2024/09/09 10:09:25.103902 main.go:91: [GORM] Deleted author with ID: 4f0b403f-ec71-4f10-b51b-1e285b390dfe
+2024/09/09 10:09:25.105430 main.go:91: [GORM] Deleted author with ID: 5a3be7a7-19bb-41f7-8a35-925603f2fe51
+2024/09/09 10:09:25.107176 main.go:91: [GORM] Deleted author with ID: dd3f702f-7dd9-46aa-81ef-fb41fd648d8f
+2024/09/09 10:09:25.109954 main.go:91: [GORM] Deleted author with ID: 231d9c82-05a9-4790-a1aa-42881fe5e198
+2024/09/09 10:09:25.113880 main.go:91: [GORM] Deleted author with ID: 28bb7fbc-1ed6-486f-b2dd-8923cc8ae34e
+2024/09/09 10:09:25.115766 main.go:91: [GORM] Deleted author with ID: d6f79c23-9469-4a28-b764-de2cbf34211f
+2024/09/09 10:09:25.118401 main.go:91: [GORM] Deleted author with ID: e516bc0a-67bb-4f7d-83f8-3644e4514bb1
+2024/09/09 10:09:25.121223 main.go:91: [GORM] Deleted author with ID: 5d59bada-f3ca-4a1d-b147-00fb30e172ff
+2024/09/09 10:09:25.123091 main.go:91: [GORM] Deleted author with ID: 44199ad7-8e4d-4665-b276-3f567e18fc40
+2024/09/09 10:09:25.124584 main.go:91: [GORM] Deleted author with ID: 0ed6638a-8024-400d-83e2-7bd5d240e710
+2024/09/09 10:09:25.127597 main.go:91: [GORM] Deleted author with ID: 902bbd18-ec44-49d8-ad1d-6a93ef57120b
+2024/09/09 10:09:25.129263 main.go:91: [GORM] Deleted author with ID: 812519af-578b-4551-b87c-3ca65e17d71a
+2024/09/09 10:09:25.132448 main.go:91: [GORM] Deleted author with ID: 75e5c20d-903d-4300-bbd0-5237fead6e6a
+2024/09/09 10:09:25.135196 main.go:91: [GORM] Deleted author with ID: 5c098861-ddd4-49a2-9810-cfb58ba3549c
+2024/09/09 10:09:25.137992 main.go:91: [GORM] Deleted author with ID: 1d4b81aa-9bde-47b0-a8f5-fd3e05a44a6f
+2024/09/09 10:09:25.139411 main.go:91: [GORM] Deleted author with ID: ef5ddbb4-60c4-4818-aec4-117776af3497
+2024/09/09 10:09:25.140796 main.go:91: [GORM] Deleted author with ID: 7e11f061-d97d-45a2-aa9e-d37bba3690f2
+2024/09/09 10:09:25.142665 main.go:91: [GORM] Deleted author with ID: 9dbafff1-c6c7-4d63-8551-853ed16ea04d
+2024/09/09 10:09:25.145675 main.go:91: [GORM] Deleted author with ID: b95e269f-0e1b-4978-bf55-ccf007562b21
+2024/09/09 10:09:25.148550 main.go:91: [GORM] Deleted author with ID: 1acfc35f-f0af-45f3-b3af-16f7183890a0
+2024/09/09 10:09:25.150102 main.go:91: [GORM] Deleted author with ID: 50a38277-fb3b-4ce5-88b2-7f82b5a77de4
+2024/09/09 10:09:25.151565 main.go:91: [GORM] Deleted author with ID: 8c01c62b-1697-46a7-930f-56cdfbba6bdb
+2024/09/09 10:09:25.154778 main.go:91: [GORM] Deleted author with ID: 6cfe26d4-6690-4641-a703-18c7d5a50bba
+2024/09/09 10:09:25.163472 main.go:91: [GORM] Deleted author with ID: 2aa87938-0640-444d-ba2c-7e4b17feee23
+2024/09/09 10:09:25.169454 main.go:91: [GORM] Deleted author with ID: 785bf98c-8e1e-4b0f-92b8-1eb7ba439e4d
+2024/09/09 10:09:25.174734 main.go:91: [GORM] Deleted author with ID: 0945167b-f725-45b9-89b9-bc0ad938c4cc
+2024/09/09 10:09:25.179602 main.go:91: [GORM] Deleted author with ID: a57cd76e-905c-466c-b87d-384eae69fe55
+2024/09/09 10:09:25.183509 main.go:91: [GORM] Deleted author with ID: 8a20d820-4512-494c-b05b-4f15e2d20e18
+2024/09/09 10:09:25.185685 main.go:91: [GORM] Deleted author with ID: 753051f8-7dd2-4e31-849e-106085ea1190
+2024/09/09 10:09:25.188014 main.go:91: [GORM] Deleted author with ID: 8245739e-594e-432b-8bef-89adc659177f
+2024/09/09 10:09:25.190147 main.go:91: [GORM] Deleted author with ID: 97657d9b-2f15-4e93-80fd-1da9feca663b
+2024/09/09 10:09:25.192441 main.go:91: [GORM] Deleted author with ID: 9a7c75e0-9cef-4c67-94d0-340bbd11154d
+2024/09/09 10:09:25.194453 main.go:91: [GORM] Deleted author with ID: d13891db-ef67-4504-9fba-6ee45910f6dc
+2024/09/09 10:09:25.197492 main.go:91: [GORM] Deleted author with ID: c08f2561-4eee-4767-b9a8-e6b185b9db61
+2024/09/09 10:09:25.200513 main.go:91: [GORM] Deleted author with ID: 3cf3f520-2e7f-492e-b949-2c03e235a8ed
+2024/09/09 10:09:25.203292 main.go:91: [GORM] Deleted author with ID: 7f915074-c363-4363-af54-07c1e7553b5d
+2024/09/09 10:09:25.205071 main.go:91: [GORM] Deleted author with ID: 5591f555-4662-45ec-bb12-9eb7d49cc7e9
+2024/09/09 10:09:25.206686 main.go:91: [GORM] Deleted author with ID: 92c6de5d-5275-471b-b7aa-ee88336a78f6
+2024/09/09 10:09:25.209847 main.go:91: [GORM] Deleted author with ID: 3d4b966a-ec25-4550-81c5-41412a1cb54f
+2024/09/09 10:09:25.212667 main.go:91: [GORM] Deleted author with ID: fb371f94-d3d0-4de5-9ac1-43a3ce6ceb22
+2024/09/09 10:09:25.215767 main.go:91: [GORM] Deleted author with ID: 7fd2a3a9-36d5-4ebe-b598-32da30590206
+2024/09/09 10:09:25.217349 main.go:91: [GORM] Deleted author with ID: 55d3e8c8-f907-4304-9ddf-e594e0bf4147
+2024/09/09 10:09:25.218868 main.go:91: [GORM] Deleted author with ID: 56c7a99e-ae63-4c11-895a-6f99afd369a0
+2024/09/09 10:09:25.220682 main.go:91: [GORM] Deleted author with ID: 5ccde8f0-44eb-4689-a6c1-6578aaffd623
+2024/09/09 10:09:25.222849 main.go:91: [GORM] Deleted author with ID: 4e1aed80-dfab-4783-b0bc-cb81cd708801
+2024/09/09 10:09:25.224572 main.go:91: [GORM] Deleted author with ID: e4a488d7-82fb-4ecc-a46e-6961e71f6986
+2024/09/09 10:09:25.226353 main.go:91: [GORM] Deleted author with ID: f08af1bc-09f0-4933-81e6-ffb5723ea1f4
+2024/09/09 10:09:25.227757 main.go:91: [GORM] Deleted author with ID: 1da3a93c-6ac0-498f-9b83-9d2647b3d14c
+2024/09/09 10:09:25.229158 main.go:91: [GORM] Deleted author with ID: 936362dd-f64d-4384-a4a5-6e51f909513e
+2024/09/09 10:09:25.232088 main.go:91: [GORM] Deleted author with ID: b22139b2-4365-475c-a499-0480a0c80f2e
+2024/09/09 10:09:25.234931 main.go:91: [GORM] Deleted author with ID: 62d2a3e3-b91c-4a2b-a0a6-5b03994a57d1
+2024/09/09 10:09:25.238066 main.go:91: [GORM] Deleted author with ID: 9582be07-0cbe-484a-aa29-580346de5e05
+2024/09/09 10:09:25.239887 main.go:91: [GORM] Deleted author with ID: a0cece9f-1271-43e2-a784-5012d4696024
+2024/09/09 10:09:25.241534 main.go:91: [GORM] Deleted author with ID: 0e265418-6810-41cf-b629-6c32f2790a55
+2024/09/09 10:09:25.242959 main.go:91: [GORM] Deleted author with ID: 001633db-ae1b-4c76-ab82-d56173b1a0ce
+2024/09/09 10:09:25.245691 main.go:91: [GORM] Deleted author with ID: efce6c15-2a8e-4516-825c-462f48d41cd8
+2024/09/09 10:09:25.248572 main.go:91: [GORM] Deleted author with ID: 3964d503-d3c7-420f-a28e-eebf9046eb4d
+2024/09/09 10:09:25.251589 main.go:91: [GORM] Deleted author with ID: 9a4f3642-ed53-4a4a-8708-2b402af837c8
+2024/09/09 10:09:25.254878 main.go:91: [GORM] Deleted author with ID: 524ab19f-e0f0-4dc5-b9e3-5c716550be21
+2024/09/09 10:09:25.256594 main.go:91: [GORM] Deleted author with ID: 3d30ea31-ae14-4962-bd78-32cc93cfa99b
+2024/09/09 10:09:25.258124 main.go:91: [GORM] Deleted author with ID: 1989e2ea-f06d-47d6-a0ff-40ff9b839ea7
+2024/09/09 10:09:25.259846 main.go:91: [GORM] Deleted author with ID: 31341472-fa56-42c3-a396-b99fcbf851bd
+2024/09/09 10:09:25.261331 main.go:91: [GORM] Deleted author with ID: 60bbd20c-049b-4920-a509-40747db87a6b
+2024/09/09 10:09:25.264177 main.go:91: [GORM] Deleted author with ID: 5cb84701-20c7-4293-bcdb-624293e5842d
+2024/09/09 10:09:25.267187 main.go:91: [GORM] Deleted author with ID: e8fc1f8c-0495-45b9-9710-abe7f4a3791d
+2024/09/09 10:09:25.269126 main.go:91: [GORM] Deleted author with ID: 1e5db2c8-9720-4421-baa6-2802d15e5f76
+2024/09/09 10:09:25.272050 main.go:91: [GORM] Deleted author with ID: 0523169b-7138-4b3f-8912-45bb881a1149
+2024/09/09 10:09:25.275071 main.go:91: [GORM] Deleted author with ID: 871cae36-e4ae-4984-94eb-14ff76506475
+2024/09/09 10:09:25.277980 main.go:91: [GORM] Deleted author with ID: 724674e6-1c5b-433c-94ff-0743d0caa7f7
+2024/09/09 10:09:25.280660 main.go:91: [GORM] Deleted author with ID: 9bc6d7a0-97c5-4546-ba86-a30b201c5b06
+2024/09/09 10:09:25.284150 main.go:91: [GORM] Deleted author with ID: 66e4debd-afee-424c-982a-97a25132f1ea
+2024/09/09 10:09:25.287206 main.go:91: [GORM] Deleted author with ID: 08896a90-29f7-44d5-8492-44942a7810fb
+2024/09/09 10:09:25.290115 main.go:91: [GORM] Deleted author with ID: 788e9bb6-8aa9-424a-b9f2-b2416224fa48
+2024/09/09 10:09:25.291568 main.go:91: [GORM] Deleted author with ID: 0ae90919-e1f9-49e2-8604-285f1d3ef932
+2024/09/09 10:09:25.293039 main.go:91: [GORM] Deleted author with ID: 35ba6d75-d227-4743-854d-67f8e19231c1
+2024/09/09 10:09:25.294609 main.go:91: [GORM] Deleted author with ID: 738b0c25-019d-49c4-a1ce-775b9b8af0dc
+2024/09/09 10:09:25.297438 main.go:91: [GORM] Deleted author with ID: 47800b3a-8f1c-43f6-b6cc-b4226e3ef9d2
+2024/09/09 10:09:25.300781 main.go:91: [GORM] Deleted author with ID: f8dc4907-52ad-408b-bbd0-f22c179f0e31
+2024/09/09 10:09:25.303799 main.go:91: [GORM] Deleted author with ID: 2b590eed-b090-47d9-96c6-4dc347711242
+2024/09/09 10:09:25.306587 main.go:91: [GORM] Deleted author with ID: 46c27bb9-1210-4f67-92e2-ebba4bfd66e7
+2024/09/09 10:09:25.308301 main.go:91: [GORM] Deleted author with ID: 6ee18f92-0dac-443f-bb5f-dc78a6c7bdc3
+2024/09/09 10:09:25.309736 main.go:91: [GORM] Deleted author with ID: cab6a021-34e9-4502-929f-a9b5e1229b20
+2024/09/09 10:09:25.311268 main.go:91: [GORM] Deleted author with ID: 5136134e-3f4b-4d51-87a3-61b275ae636c
+2024/09/09 10:09:25.312692 main.go:91: [GORM] Deleted author with ID: ddbd6cab-47d8-4cde-b562-31f407fb983a
+2024/09/09 10:09:25.316226 main.go:91: [GORM] Deleted author with ID: 0fbf48af-9bd7-4674-b575-a48028ad9fb2
+2024/09/09 10:09:25.317948 main.go:91: [GORM] Deleted author with ID: 26d1d650-ecd8-40d5-a9d5-677b654ebdbe
+2024/09/09 10:09:25.319483 main.go:91: [GORM] Deleted author with ID: 2f91909a-2e4d-4649-9867-1fe8e66356bf
+2024/09/09 10:09:25.322444 main.go:91: [GORM] Deleted author with ID: 9309fa71-87ad-4be0-bae4-55442c3213f5
+2024/09/09 10:09:25.325883 main.go:91: [GORM] Deleted author with ID: 7efeda5c-1123-472d-a889-addf02c98d6f
+2024/09/09 10:09:25.334533 main.go:91: [GORM] Deleted author with ID: d0cb8967-6cae-4f33-a42f-abdbf67a8619
+2024/09/09 10:09:25.339214 main.go:91: [GORM] Deleted author with ID: f7fa7fc6-e1f6-4c59-af17-7ea23afcd317
+2024/09/09 10:09:25.343250 main.go:91: [GORM] Deleted author with ID: dd32c628-b08e-433b-b387-d0122823826c
+2024/09/09 10:09:25.348485 main.go:91: [GORM] Deleted author with ID: 8b195883-6b4e-4092-953d-d0aa5a4e6309
+2024/09/09 10:09:25.352662 main.go:91: [GORM] Deleted author with ID: 2c95f556-d0d1-4a0c-b64e-3ffd2fce955b
+2024/09/09 10:09:25.356243 main.go:91: [GORM] Deleted author with ID: f936e0a4-2e59-4674-ae8b-36a7cb8b4fbe
+2024/09/09 10:09:25.359875 main.go:91: [GORM] Deleted author with ID: faff9f7a-b302-41aa-9ca4-1ba3c4b2d207
+2024/09/09 10:09:25.363573 main.go:91: [GORM] Deleted author with ID: f3ca9c3f-67a3-42e2-af6a-38cdf96f48dc
+2024/09/09 10:09:25.366936 main.go:91: [GORM] Deleted author with ID: e33e742c-db54-4183-baba-c88acd9ffe17
+2024/09/09 10:09:25.369866 main.go:91: [GORM] Deleted author with ID: 5fc0fe27-42f6-4bf0-a6f4-0f18369d285a
+2024/09/09 10:09:25.371840 main.go:91: [GORM] Deleted author with ID: e5fe3081-c668-45f5-bbc7-95720d7f6017
+2024/09/09 10:09:25.373420 main.go:91: [GORM] Deleted author with ID: f85d9307-84ac-4bfa-8ed3-390ff9ba1dfc
+2024/09/09 10:09:25.375127 main.go:91: [GORM] Deleted author with ID: 5b3f65b2-a73c-4e5f-a391-4693f412f8a4
+2024/09/09 10:09:25.376957 main.go:91: [GORM] Deleted author with ID: 0584a294-064b-4076-bea7-794eed04233e
+2024/09/09 10:09:25.379301 main.go:91: [GORM] Deleted author with ID: 19d6854e-585d-4e3d-9530-8a47856cb2d6
+2024/09/09 10:09:25.382909 main.go:91: [GORM] Deleted author with ID: ea1edf79-1178-4668-96d9-af4442f1a51f
+2024/09/09 10:09:25.386164 main.go:91: [GORM] Deleted author with ID: 8b745fd7-4b24-4273-b14f-b5bea8c59393
+2024/09/09 10:09:25.389020 main.go:91: [GORM] Deleted author with ID: c68a72ff-4375-438f-946e-c11e55caba30
+2024/09/09 10:09:25.390618 main.go:91: [GORM] Deleted author with ID: 16fca503-b079-4f25-a669-a90efeee2a85
+2024/09/09 10:09:25.392430 main.go:91: [GORM] Deleted author with ID: 1b746b4d-b6f6-4231-8dd4-32ce63528ea8
+2024/09/09 10:09:25.394260 main.go:91: [GORM] Deleted author with ID: fda923a5-19f2-48ef-91dd-549ce6180be8
+2024/09/09 10:09:25.395964 main.go:91: [GORM] Deleted author with ID: 6e124317-9080-4902-a588-2da1a3fcc291
+2024/09/09 10:09:25.397624 main.go:91: [GORM] Deleted author with ID: a7478f57-8d28-48d2-abeb-7b729535a9aa
+2024/09/09 10:09:25.400332 main.go:91: [GORM] Deleted author with ID: 93f6fdce-af37-4dd0-85ed-0bfcbe8c13ee
+2024/09/09 10:09:25.403131 main.go:91: [GORM] Deleted author with ID: 1c7211ea-3a51-4ab6-b0ce-2ceb0e3e6fe3
+2024/09/09 10:09:25.405785 main.go:91: [GORM] Deleted author with ID: 895183e8-f4c7-4b89-8b19-78c72a3dd841
+2024/09/09 10:09:25.407528 main.go:91: [GORM] Deleted author with ID: 7182177d-64f7-471d-ab54-2a621cfc6f79
+2024/09/09 10:09:25.409380 main.go:91: [GORM] Deleted author with ID: 22125341-6a09-4ef1-8974-26f400915f14
+2024/09/09 10:09:25.411306 main.go:91: [GORM] Deleted author with ID: 1e64ec84-e46e-490f-ad6a-add494d0bfb3
+2024/09/09 10:09:25.414244 main.go:91: [GORM] Deleted author with ID: 8cdf3a99-db55-40c1-a537-ea5b7de37fb7
+2024/09/09 10:09:25.416896 main.go:91: [GORM] Deleted author with ID: 4fafb3c5-1f6f-4bc1-8b5a-242c31a5b94b
+2024/09/09 10:09:25.419654 main.go:91: [GORM] Deleted author with ID: 749b35f0-1e10-4961-af95-9ceaab8f14d1
+2024/09/09 10:09:25.425520 main.go:91: [GORM] Deleted author with ID: 79f04da7-e8b8-45ed-b932-d629787d8be9
+2024/09/09 10:09:25.427051 main.go:91: [GORM] Deleted author with ID: 1bdfca67-f03c-48d1-bc5c-bd2dcd84bdb3
+2024/09/09 10:09:25.428498 main.go:91: [GORM] Deleted author with ID: ea5947e1-d354-4bfa-b107-bcb2ac390afa
+2024/09/09 10:09:25.429816 main.go:91: [GORM] Deleted author with ID: fde6f181-c2af-4d32-9f23-27cdeec64e87
+2024/09/09 10:09:25.431157 main.go:91: [GORM] Deleted author with ID: bc110354-fd50-4130-8475-16ba608f0fe5
+2024/09/09 10:09:25.433847 main.go:91: [GORM] Deleted author with ID: ddf616b0-5674-4a96-85db-1009609e2890
+2024/09/09 10:09:25.436661 main.go:91: [GORM] Deleted author with ID: 800aeceb-bad2-414d-aa70-c75bf2fa46a0
+2024/09/09 10:09:25.439702 main.go:91: [GORM] Deleted author with ID: 56fd9364-61cf-4a30-8b7f-a207f0ceca78
+2024/09/09 10:09:25.443012 main.go:91: [GORM] Deleted author with ID: 3003c4f7-253b-42ec-aeea-8e9f4e2cb080
+2024/09/09 10:09:25.444803 main.go:91: [GORM] Deleted author with ID: af9086fb-3ffa-4d67-b260-43e4cdc40c6e
+2024/09/09 10:09:25.446286 main.go:91: [GORM] Deleted author with ID: 7e63e232-6501-4b5d-9622-7eccff236877
+2024/09/09 10:09:25.447640 main.go:91: [GORM] Deleted author with ID: 5e4d62c1-dc85-4548-a31b-b76d98e6512c
+2024/09/09 10:09:25.449227 main.go:91: [GORM] Deleted author with ID: f570f7dc-a56e-4b31-80a0-fd44fe4073ae
+2024/09/09 10:09:25.450674 main.go:91: [GORM] Deleted author with ID: 1c54ca52-fc2e-4983-b218-28f118580e58
+2024/09/09 10:09:25.453701 main.go:91: [GORM] Deleted author with ID: d6f257cb-a781-4182-abc7-037132db6373
+2024/09/09 10:09:25.456781 main.go:91: [GORM] Deleted author with ID: fb86188e-e4f0-4eca-8c5b-269a1aa5773d
+2024/09/09 10:09:25.460067 main.go:91: [GORM] Deleted author with ID: 0e82e951-87be-46dc-9502-314911a37bbc
+2024/09/09 10:09:25.462799 main.go:91: [GORM] Deleted author with ID: 66cc48e0-5103-468b-9851-f3d40355aab6
+2024/09/09 10:09:25.464320 main.go:91: [GORM] Deleted author with ID: c2fe12a2-f0ee-4876-98b5-b64b1e342916
+2024/09/09 10:09:25.466045 main.go:91: [GORM] Deleted author with ID: 948a8a16-84a7-462a-b6c1-9b136fe671c1
+2024/09/09 10:09:25.467597 main.go:91: [GORM] Deleted author with ID: 0efeff20-21a1-4b8f-b269-486da02479ca
+2024/09/09 10:09:25.469074 main.go:91: [GORM] Deleted author with ID: 48c661ed-e13e-4fbf-94a3-3f5e18b55ec2
+2024/09/09 10:09:25.470982 main.go:91: [GORM] Deleted author with ID: 12c5674a-7833-4a06-a807-861ff16f41e3
+2024/09/09 10:09:25.472952 main.go:91: [GORM] Deleted author with ID: f651c7dc-d6f7-46f1-adb4-80a41cbe1ff3
+2024/09/09 10:09:25.476046 main.go:91: [GORM] Deleted author with ID: f857dca8-8d5b-4b13-8800-921006644e5e
+2024/09/09 10:09:25.478687 main.go:91: [GORM] Deleted author with ID: 1075ec28-8114-4fe2-bb6b-5e54800c0eb0
+2024/09/09 10:09:25.480258 main.go:91: [GORM] Deleted author with ID: 19c09fcc-b566-47f8-8ce3-1b7eb286351e
+2024/09/09 10:09:25.481980 main.go:91: [GORM] Deleted author with ID: 8fe21019-1420-4aca-81da-ff9c232789a9
+2024/09/09 10:09:25.484741 main.go:91: [GORM] Deleted author with ID: 24a345cb-2d52-4db8-8aac-e9510312a7e3
+2024/09/09 10:09:25.488135 main.go:91: [GORM] Deleted author with ID: 328f07a4-f03e-4e69-af4d-b404b10348a3
+2024/09/09 10:09:25.490945 main.go:105: [GORM] Updated author with ID: 2c95f556-d0d1-4a0c-b64e-3ffd2fce955b
+2024/09/09 10:09:25.492884 main.go:105: [GORM] Updated author with ID: f7fa7fc6-e1f6-4c59-af17-7ea23afcd317
+2024/09/09 10:09:25.494388 main.go:105: [GORM] Updated author with ID: dd32c628-b08e-433b-b387-d0122823826c
+2024/09/09 10:09:25.495873 main.go:105: [GORM] Updated author with ID: 8b195883-6b4e-4092-953d-d0aa5a4e6309
+2024/09/09 10:09:25.497307 main.go:105: [GORM] Updated author with ID: e33e742c-db54-4183-baba-c88acd9ffe17
+2024/09/09 10:09:25.499180 main.go:105: [GORM] Updated author with ID: f936e0a4-2e59-4674-ae8b-36a7cb8b4fbe
+2024/09/09 10:09:25.500656 main.go:105: [GORM] Updated author with ID: faff9f7a-b302-41aa-9ca4-1ba3c4b2d207
+2024/09/09 10:09:25.502329 main.go:105: [GORM] Updated author with ID: f3ca9c3f-67a3-42e2-af6a-38cdf96f48dc
+2024/09/09 10:09:25.503974 main.go:105: [GORM] Updated author with ID: 0584a294-064b-4076-bea7-794eed04233e
+2024/09/09 10:09:25.505782 main.go:105: [GORM] Updated author with ID: 19d6854e-585d-4e3d-9530-8a47856cb2d6
+2024/09/09 10:09:25.507417 main.go:105: [GORM] Updated author with ID: 5fc0fe27-42f6-4bf0-a6f4-0f18369d285a
+2024/09/09 10:09:25.508917 main.go:105: [GORM] Updated author with ID: e5fe3081-c668-45f5-bbc7-95720d7f6017
+2024/09/09 10:09:25.510268 main.go:105: [GORM] Updated author with ID: f85d9307-84ac-4bfa-8ed3-390ff9ba1dfc
+2024/09/09 10:09:25.512030 main.go:105: [GORM] Updated author with ID: 5b3f65b2-a73c-4e5f-a391-4693f412f8a4
+2024/09/09 10:09:25.513713 main.go:105: [GORM] Updated author with ID: 6e124317-9080-4902-a588-2da1a3fcc291
+2024/09/09 10:09:25.515074 main.go:105: [GORM] Updated author with ID: a7478f57-8d28-48d2-abeb-7b729535a9aa
+2024/09/09 10:09:25.516622 main.go:105: [GORM] Updated author with ID: ea1edf79-1178-4668-96d9-af4442f1a51f
+2024/09/09 10:09:25.518733 main.go:105: [GORM] Updated author with ID: 8b745fd7-4b24-4273-b14f-b5bea8c59393
+2024/09/09 10:09:25.520619 main.go:105: [GORM] Updated author with ID: c68a72ff-4375-438f-946e-c11e55caba30
+2024/09/09 10:09:25.522293 main.go:105: [GORM] Updated author with ID: 16fca503-b079-4f25-a669-a90efeee2a85
+2024/09/09 10:09:25.523925 main.go:105: [GORM] Updated author with ID: 1b746b4d-b6f6-4231-8dd4-32ce63528ea8
+2024/09/09 10:09:25.525676 main.go:105: [GORM] Updated author with ID: fda923a5-19f2-48ef-91dd-549ce6180be8
+2024/09/09 10:09:25.527179 main.go:105: [GORM] Updated author with ID: 8cdf3a99-db55-40c1-a537-ea5b7de37fb7
+2024/09/09 10:09:25.528996 main.go:105: [GORM] Updated author with ID: 4fafb3c5-1f6f-4bc1-8b5a-242c31a5b94b
+2024/09/09 10:09:25.531151 main.go:105: [GORM] Updated author with ID: 93f6fdce-af37-4dd0-85ed-0bfcbe8c13ee
+2024/09/09 10:09:25.533243 main.go:105: [GORM] Updated author with ID: 1c7211ea-3a51-4ab6-b0ce-2ceb0e3e6fe3
+2024/09/09 10:09:25.535229 main.go:105: [GORM] Updated author with ID: 895183e8-f4c7-4b89-8b19-78c72a3dd841
+2024/09/09 10:09:25.537107 main.go:105: [GORM] Updated author with ID: 7182177d-64f7-471d-ab54-2a621cfc6f79
+2024/09/09 10:09:25.538545 main.go:105: [GORM] Updated author with ID: 22125341-6a09-4ef1-8974-26f400915f14
+2024/09/09 10:09:25.540055 main.go:105: [GORM] Updated author with ID: 1e64ec84-e46e-490f-ad6a-add494d0bfb3
+2024/09/09 10:09:25.541422 main.go:105: [GORM] Updated author with ID: 749b35f0-1e10-4961-af95-9ceaab8f14d1
+2024/09/09 10:09:25.543357 main.go:105: [GORM] Updated author with ID: bc110354-fd50-4130-8475-16ba608f0fe5
+2024/09/09 10:09:25.544800 main.go:105: [GORM] Updated author with ID: ddf616b0-5674-4a96-85db-1009609e2890
+2024/09/09 10:09:25.546303 main.go:105: [GORM] Updated author with ID: 79f04da7-e8b8-45ed-b932-d629787d8be9
+2024/09/09 10:09:25.547964 main.go:105: [GORM] Updated author with ID: 1bdfca67-f03c-48d1-bc5c-bd2dcd84bdb3
+2024/09/09 10:09:25.549895 main.go:105: [GORM] Updated author with ID: ea5947e1-d354-4bfa-b107-bcb2ac390afa
+2024/09/09 10:09:25.551725 main.go:105: [GORM] Updated author with ID: fde6f181-c2af-4d32-9f23-27cdeec64e87
+2024/09/09 10:09:25.553313 main.go:105: [GORM] Updated author with ID: f570f7dc-a56e-4b31-80a0-fd44fe4073ae
+2024/09/09 10:09:25.555108 main.go:105: [GORM] Updated author with ID: 1c54ca52-fc2e-4983-b218-28f118580e58
+2024/09/09 10:09:25.556481 main.go:105: [GORM] Updated author with ID: 800aeceb-bad2-414d-aa70-c75bf2fa46a0
+2024/09/09 10:09:25.558026 main.go:105: [GORM] Updated author with ID: 56fd9364-61cf-4a30-8b7f-a207f0ceca78
+2024/09/09 10:09:25.559925 main.go:105: [GORM] Updated author with ID: 3003c4f7-253b-42ec-aeea-8e9f4e2cb080
+2024/09/09 10:09:25.561423 main.go:105: [GORM] Updated author with ID: af9086fb-3ffa-4d67-b260-43e4cdc40c6e
+2024/09/09 10:09:25.562824 main.go:105: [GORM] Updated author with ID: 7e63e232-6501-4b5d-9622-7eccff236877
+2024/09/09 10:09:25.564725 main.go:105: [GORM] Updated author with ID: 5e4d62c1-dc85-4548-a31b-b76d98e6512c
+2024/09/09 10:09:25.566640 main.go:105: [GORM] Updated author with ID: d6f257cb-a781-4182-abc7-037132db6373
+2024/09/09 10:09:25.568736 main.go:105: [GORM] Updated author with ID: fb86188e-e4f0-4eca-8c5b-269a1aa5773d
+2024/09/09 10:09:25.570798 main.go:105: [GORM] Updated author with ID: 48c661ed-e13e-4fbf-94a3-3f5e18b55ec2
+2024/09/09 10:09:25.572323 main.go:105: [GORM] Updated author with ID: 12c5674a-7833-4a06-a807-861ff16f41e3
+2024/09/09 10:09:25.573877 main.go:105: [GORM] Updated author with ID: 0e82e951-87be-46dc-9502-314911a37bbc
+2024/09/09 10:09:25.575277 main.go:105: [GORM] Updated author with ID: 66cc48e0-5103-468b-9851-f3d40355aab6
+2024/09/09 10:09:25.576924 main.go:105: [GORM] Updated author with ID: c2fe12a2-f0ee-4876-98b5-b64b1e342916
+2024/09/09 10:09:25.578300 main.go:105: [GORM] Updated author with ID: 948a8a16-84a7-462a-b6c1-9b136fe671c1
+2024/09/09 10:09:25.579793 main.go:105: [GORM] Updated author with ID: 0efeff20-21a1-4b8f-b269-486da02479ca
+2024/09/09 10:09:25.581639 main.go:105: [GORM] Updated author with ID: f651c7dc-d6f7-46f1-adb4-80a41cbe1ff3
+2024/09/09 10:09:25.583711 main.go:105: [GORM] Updated author with ID: f857dca8-8d5b-4b13-8800-921006644e5e
+2024/09/09 10:09:25.585427 main.go:105: [GORM] Updated author with ID: 1075ec28-8114-4fe2-bb6b-5e54800c0eb0
+2024/09/09 10:09:25.587243 main.go:105: [GORM] Updated author with ID: 328f07a4-f03e-4e69-af4d-b404b10348a3
+2024/09/09 10:09:25.588899 main.go:105: [GORM] Updated author with ID: 19c09fcc-b566-47f8-8ce3-1b7eb286351e
+2024/09/09 10:09:25.590396 main.go:105: [GORM] Updated author with ID: 8fe21019-1420-4aca-81da-ff9c232789a9
+2024/09/09 10:09:25.591930 main.go:105: [GORM] Updated author with ID: 24a345cb-2d52-4db8-8aac-e9510312a7e3
+2024/09/09 10:09:25.593676 main.go:105: [GORM] Updated author with ID: a5afb47b-86a2-4ba6-bb08-d6df432dd032
+2024/09/09 10:09:25.595434 main.go:105: [GORM] Updated author with ID: 94a4e65d-fdfa-457d-85f1-f8eedf6e9acc
+2024/09/09 10:09:25.597394 main.go:105: [GORM] Updated author with ID: 9e664155-c24b-4909-86ad-a7e1d340b5f7
+2024/09/09 10:09:25.599348 main.go:105: [GORM] Updated author with ID: 13f1c90e-3397-4834-bcbb-2e5f50f03a1a
+2024/09/09 10:09:25.600847 main.go:105: [GORM] Updated author with ID: 698e4109-0c3d-4203-8452-edf80e91bb5a
+2024/09/09 10:09:25.602664 main.go:105: [GORM] Updated author with ID: a7179ea1-6a26-48c4-8894-5dc78a7619f9
+2024/09/09 10:09:25.604190 main.go:105: [GORM] Updated author with ID: ae402cda-b175-44ba-9210-ea2a78cc523c
+2024/09/09 10:09:25.605892 main.go:105: [GORM] Updated author with ID: fc8a369b-24d2-48eb-90e3-dc4d29621ade
+2024/09/09 10:09:25.607468 main.go:105: [GORM] Updated author with ID: e1dcbb08-9253-4624-b45f-1345fdb494e4
+2024/09/09 10:09:25.609068 main.go:105: [GORM] Updated author with ID: 987f9fd8-2822-4c41-b0b8-64951447b317
+2024/09/09 10:09:25.610897 main.go:105: [GORM] Updated author with ID: 01e7c3d3-febf-4436-84ae-c9f52dfb9a4e
+2024/09/09 10:09:25.612680 main.go:105: [GORM] Updated author with ID: 6a9acaa2-2170-415d-a4ad-4aedfc369978
+2024/09/09 10:09:25.614546 main.go:105: [GORM] Updated author with ID: 0d22f80c-9703-4143-bb71-51d57e7bdc62
+2024/09/09 10:09:25.616231 main.go:105: [GORM] Updated author with ID: f98935a8-dec2-4069-846e-9f9f78d9ad91
+2024/09/09 10:09:25.617770 main.go:105: [GORM] Updated author with ID: dc0cc5e5-88b9-4fe2-a179-95466ccbd349
+2024/09/09 10:09:25.619274 main.go:105: [GORM] Updated author with ID: 05477016-3b57-4c4e-94d3-2a1bfd09e320
+2024/09/09 10:09:25.621050 main.go:105: [GORM] Updated author with ID: e157808e-47d3-476b-9f84-86fa9fd8c2fb
+2024/09/09 10:09:25.622497 main.go:105: [GORM] Updated author with ID: 22368a62-3477-47d3-8e17-78e2ecc42686
+2024/09/09 10:09:25.624074 main.go:105: [GORM] Updated author with ID: f0d8f926-5679-4019-af7f-9b19dc67a160
+2024/09/09 10:09:25.625789 main.go:105: [GORM] Updated author with ID: 1df1aeb0-1280-4a58-a642-2de24126fadb
+2024/09/09 10:09:25.627455 main.go:105: [GORM] Updated author with ID: e6bff0e4-75df-49a2-b4d6-8690e6abb6c7
+2024/09/09 10:09:25.629505 main.go:105: [GORM] Updated author with ID: 74703228-1101-431a-ab5a-4c59db0b1ed7
+2024/09/09 10:09:25.631162 main.go:105: [GORM] Updated author with ID: 359424a7-282b-4772-a15b-3628a9569ed5
+2024/09/09 10:09:25.632582 main.go:105: [GORM] Updated author with ID: 31fe5d2e-1ccb-479a-97b9-bf920db8e2dc
+2024/09/09 10:09:25.634020 main.go:105: [GORM] Updated author with ID: d0c02b3e-2df9-44d5-b1cc-c737d1d60114
+2024/09/09 10:09:25.635671 main.go:105: [GORM] Updated author with ID: 5c70987e-5270-473e-bf05-d78d6532a765
+2024/09/09 10:09:25.637031 main.go:105: [GORM] Updated author with ID: 4fc1f610-07ee-44de-9cb2-c1c22c131ecc
+2024/09/09 10:09:25.638399 main.go:105: [GORM] Updated author with ID: 452a3b69-bfa2-40d4-a5a7-6df494c78515
+2024/09/09 10:09:25.640055 main.go:105: [GORM] Updated author with ID: d9c7aebe-29dc-4179-9571-f35af45fe398
+2024/09/09 10:09:25.641956 main.go:105: [GORM] Updated author with ID: 6982fa33-fa58-4332-a0ae-5b56cb1d2d4a
+2024/09/09 10:09:25.643978 main.go:105: [GORM] Updated author with ID: 274295ba-d840-48c6-ac89-c850597bbe82
+2024/09/09 10:09:25.646081 main.go:105: [GORM] Updated author with ID: 1bddbd82-a2d5-47eb-9415-7ed075baaac2
+2024/09/09 10:09:25.647692 main.go:105: [GORM] Updated author with ID: e0dca297-cd0d-4f2b-bb50-4d2328a7de88
+2024/09/09 10:09:25.649280 main.go:105: [GORM] Updated author with ID: eeac960b-637a-44ff-8782-a613389fca34
+2024/09/09 10:09:25.650669 main.go:105: [GORM] Updated author with ID: dba6de01-b5f1-49a1-a806-b6fb5f0bc6d2
+2024/09/09 10:09:25.652303 main.go:105: [GORM] Updated author with ID: 57763f36-3f92-4285-a606-ff84ac206476
+2024/09/09 10:09:25.653797 main.go:105: [GORM] Updated author with ID: 70059c5d-c5a2-47e5-b977-52f0a9d17326
+2024/09/09 10:09:25.655258 main.go:105: [GORM] Updated author with ID: 4d74c41b-ae46-4432-95d9-78c5da26753a
+2024/09/09 10:09:25.656634 main.go:105: [GORM] Updated author with ID: b904fb34-fb39-498a-9872-68ee8bc9ffeb
+2024/09/09 10:09:25.658581 main.go:105: [GORM] Updated author with ID: 511c42b0-5210-46f1-a046-4cf5ed18cabb
+2024/09/09 10:09:25.660445 main.go:105: [GORM] Updated author with ID: 0ed1629c-8034-4fd9-895f-c44587f5c905
+2024/09/09 10:09:25.662011 main.go:105: [GORM] Updated author with ID: b429e553-d85b-4488-9b72-0dced39d639b
+2024/09/09 10:09:25.663747 main.go:105: [GORM] Updated author with ID: e1540e71-a4e7-4f5e-8a5a-60df95a98c3b
+2024/09/09 10:09:25.665336 main.go:105: [GORM] Updated author with ID: cb840678-9597-43a5-8941-9e101b37a67f
+2024/09/09 10:09:25.666684 main.go:105: [GORM] Updated author with ID: 5947228b-c83a-489f-b78f-6196980a7da1
+2024/09/09 10:09:25.668089 main.go:105: [GORM] Updated author with ID: ee3f7b40-8f56-4871-91c2-e34fed84660d
+2024/09/09 10:09:25.669631 main.go:105: [GORM] Updated author with ID: 1cae75b1-dcf1-41cf-aa89-8da72b0620f8
+2024/09/09 10:09:25.671263 main.go:105: [GORM] Updated author with ID: b2b25ada-167f-4e3f-af67-f0be01d85deb
+2024/09/09 10:09:25.672630 main.go:105: [GORM] Updated author with ID: 0be6604e-a460-478c-aadf-2e1597e1d54c
+2024/09/09 10:09:25.674328 main.go:105: [GORM] Updated author with ID: 231d9c82-05a9-4790-a1aa-42881fe5e198
+2024/09/09 10:09:25.676148 main.go:105: [GORM] Updated author with ID: 28bb7fbc-1ed6-486f-b2dd-8923cc8ae34e
+2024/09/09 10:09:25.678086 main.go:105: [GORM] Updated author with ID: 4f0b403f-ec71-4f10-b51b-1e285b390dfe
+2024/09/09 10:09:25.679730 main.go:105: [GORM] Updated author with ID: 5a3be7a7-19bb-41f7-8a35-925603f2fe51
+2024/09/09 10:09:25.681219 main.go:105: [GORM] Updated author with ID: dd3f702f-7dd9-46aa-81ef-fb41fd648d8f
+2024/09/09 10:09:25.682851 main.go:105: [GORM] Updated author with ID: d6f79c23-9469-4a28-b764-de2cbf34211f
+2024/09/09 10:09:25.684251 main.go:105: [GORM] Updated author with ID: e516bc0a-67bb-4f7d-83f8-3644e4514bb1
+2024/09/09 10:09:25.685873 main.go:105: [GORM] Updated author with ID: 5d59bada-f3ca-4a1d-b147-00fb30e172ff
+2024/09/09 10:09:25.687560 main.go:105: [GORM] Updated author with ID: 44199ad7-8e4d-4665-b276-3f567e18fc40
+2024/09/09 10:09:25.689251 main.go:105: [GORM] Updated author with ID: 0ed6638a-8024-400d-83e2-7bd5d240e710
+2024/09/09 10:09:25.691335 main.go:105: [GORM] Updated author with ID: 902bbd18-ec44-49d8-ad1d-6a93ef57120b
+2024/09/09 10:09:25.693320 main.go:105: [GORM] Updated author with ID: 1d4b81aa-9bde-47b0-a8f5-fd3e05a44a6f
+2024/09/09 10:09:25.694751 main.go:105: [GORM] Updated author with ID: 812519af-578b-4551-b87c-3ca65e17d71a
+2024/09/09 10:09:25.696084 main.go:105: [GORM] Updated author with ID: 75e5c20d-903d-4300-bbd0-5237fead6e6a
+2024/09/09 10:09:25.697537 main.go:105: [GORM] Updated author with ID: 5c098861-ddd4-49a2-9810-cfb58ba3549c
+2024/09/09 10:09:25.699401 main.go:105: [GORM] Updated author with ID: b95e269f-0e1b-4978-bf55-ccf007562b21
+2024/09/09 10:09:25.701003 main.go:105: [GORM] Updated author with ID: ef5ddbb4-60c4-4818-aec4-117776af3497
+2024/09/09 10:09:25.702447 main.go:105: [GORM] Updated author with ID: 7e11f061-d97d-45a2-aa9e-d37bba3690f2
+2024/09/09 10:09:25.703827 main.go:105: [GORM] Updated author with ID: 9dbafff1-c6c7-4d63-8551-853ed16ea04d
+2024/09/09 10:09:25.705723 main.go:105: [GORM] Updated author with ID: 2aa87938-0640-444d-ba2c-7e4b17feee23
+2024/09/09 10:09:25.707777 main.go:105: [GORM] Updated author with ID: 785bf98c-8e1e-4b0f-92b8-1eb7ba439e4d
+2024/09/09 10:09:25.709828 main.go:105: [GORM] Updated author with ID: 1acfc35f-f0af-45f3-b3af-16f7183890a0
+2024/09/09 10:09:25.711624 main.go:105: [GORM] Updated author with ID: 50a38277-fb3b-4ce5-88b2-7f82b5a77de4
+2024/09/09 10:09:25.713285 main.go:105: [GORM] Updated author with ID: 8c01c62b-1697-46a7-930f-56cdfbba6bdb
+2024/09/09 10:09:25.714852 main.go:105: [GORM] Updated author with ID: 6cfe26d4-6690-4641-a703-18c7d5a50bba
+2024/09/09 10:09:25.716787 main.go:105: [GORM] Updated author with ID: 9a7c75e0-9cef-4c67-94d0-340bbd11154d
+2024/09/09 10:09:25.718658 main.go:105: [GORM] Updated author with ID: d13891db-ef67-4504-9fba-6ee45910f6dc
+2024/09/09 10:09:25.720721 main.go:105: [GORM] Updated author with ID: 0945167b-f725-45b9-89b9-bc0ad938c4cc
+2024/09/09 10:09:25.723021 main.go:105: [GORM] Updated author with ID: a57cd76e-905c-466c-b87d-384eae69fe55
+2024/09/09 10:09:25.725552 main.go:105: [GORM] Updated author with ID: 8a20d820-4512-494c-b05b-4f15e2d20e18
+2024/09/09 10:09:25.727124 main.go:105: [GORM] Updated author with ID: 753051f8-7dd2-4e31-849e-106085ea1190
+2024/09/09 10:09:25.728579 main.go:105: [GORM] Updated author with ID: 8245739e-594e-432b-8bef-89adc659177f
+2024/09/09 10:09:25.730170 main.go:105: [GORM] Updated author with ID: 97657d9b-2f15-4e93-80fd-1da9feca663b
+2024/09/09 10:09:25.732218 main.go:105: [GORM] Updated author with ID: c08f2561-4eee-4767-b9a8-e6b185b9db61
+2024/09/09 10:09:25.733881 main.go:105: [GORM] Updated author with ID: fb371f94-d3d0-4de5-9ac1-43a3ce6ceb22
+2024/09/09 10:09:25.736331 main.go:105: [GORM] Updated author with ID: 7fd2a3a9-36d5-4ebe-b598-32da30590206
+2024/09/09 10:09:25.738652 main.go:105: [GORM] Updated author with ID: 3cf3f520-2e7f-492e-b949-2c03e235a8ed
+2024/09/09 10:09:25.740736 main.go:105: [GORM] Updated author with ID: 7f915074-c363-4363-af54-07c1e7553b5d
+2024/09/09 10:09:25.742911 main.go:105: [GORM] Updated author with ID: 5591f555-4662-45ec-bb12-9eb7d49cc7e9
+2024/09/09 10:09:25.744582 main.go:105: [GORM] Updated author with ID: 92c6de5d-5275-471b-b7aa-ee88336a78f6
+2024/09/09 10:09:25.746301 main.go:105: [GORM] Updated author with ID: 3d4b966a-ec25-4550-81c5-41412a1cb54f
+2024/09/09 10:09:25.747992 main.go:105: [GORM] Updated author with ID: 1da3a93c-6ac0-498f-9b83-9d2647b3d14c
+2024/09/09 10:09:25.749833 main.go:105: [GORM] Updated author with ID: 936362dd-f64d-4384-a4a5-6e51f909513e
+2024/09/09 10:09:25.751572 main.go:105: [GORM] Updated author with ID: 55d3e8c8-f907-4304-9ddf-e594e0bf4147
+2024/09/09 10:09:25.753683 main.go:105: [GORM] Updated author with ID: 56c7a99e-ae63-4c11-895a-6f99afd369a0
+2024/09/09 10:09:25.755834 main.go:105: [GORM] Updated author with ID: 5ccde8f0-44eb-4689-a6c1-6578aaffd623
+2024/09/09 10:09:25.757741 main.go:105: [GORM] Updated author with ID: 4e1aed80-dfab-4783-b0bc-cb81cd708801
+2024/09/09 10:09:25.759771 main.go:105: [GORM] Updated author with ID: e4a488d7-82fb-4ecc-a46e-6961e71f6986
+2024/09/09 10:09:25.761365 main.go:105: [GORM] Updated author with ID: f08af1bc-09f0-4933-81e6-ffb5723ea1f4
+2024/09/09 10:09:25.762880 main.go:105: [GORM] Updated author with ID: b22139b2-4365-475c-a499-0480a0c80f2e
+2024/09/09 10:09:25.764314 main.go:105: [GORM] Updated author with ID: efce6c15-2a8e-4516-825c-462f48d41cd8
+2024/09/09 10:09:25.766260 main.go:105: [GORM] Updated author with ID: 3964d503-d3c7-420f-a28e-eebf9046eb4d
+2024/09/09 10:09:25.768355 main.go:105: [GORM] Updated author with ID: 62d2a3e3-b91c-4a2b-a0a6-5b03994a57d1
+2024/09/09 10:09:25.770491 main.go:105: [GORM] Updated author with ID: 9582be07-0cbe-484a-aa29-580346de5e05
+2024/09/09 10:09:25.772508 main.go:105: [GORM] Updated author with ID: a0cece9f-1271-43e2-a784-5012d4696024
+2024/09/09 10:09:25.774161 main.go:105: [GORM] Updated author with ID: 0e265418-6810-41cf-b629-6c32f2790a55
+2024/09/09 10:09:25.775796 main.go:105: [GORM] Updated author with ID: 001633db-ae1b-4c76-ab82-d56173b1a0ce
+2024/09/09 10:09:25.777364 main.go:105: [GORM] Updated author with ID: 60bbd20c-049b-4920-a509-40747db87a6b
+2024/09/09 10:09:25.779378 main.go:105: [GORM] Updated author with ID: 5cb84701-20c7-4293-bcdb-624293e5842d
+2024/09/09 10:09:25.781019 main.go:105: [GORM] Updated author with ID: 9a4f3642-ed53-4a4a-8708-2b402af837c8
+2024/09/09 10:09:25.782597 main.go:105: [GORM] Updated author with ID: 524ab19f-e0f0-4dc5-b9e3-5c716550be21
+2024/09/09 10:09:25.784542 main.go:105: [GORM] Updated author with ID: 3d30ea31-ae14-4962-bd78-32cc93cfa99b
+2024/09/09 10:09:25.786414 main.go:105: [GORM] Updated author with ID: 1989e2ea-f06d-47d6-a0ff-40ff9b839ea7
+2024/09/09 10:09:25.788238 main.go:105: [GORM] Updated author with ID: 31341472-fa56-42c3-a396-b99fcbf851bd
+2024/09/09 10:09:25.790132 main.go:105: [GORM] Updated author with ID: 724674e6-1c5b-433c-94ff-0743d0caa7f7
+2024/09/09 10:09:25.791700 main.go:105: [GORM] Updated author with ID: 9bc6d7a0-97c5-4546-ba86-a30b201c5b06
+2024/09/09 10:09:25.793120 main.go:105: [GORM] Updated author with ID: e8fc1f8c-0495-45b9-9710-abe7f4a3791d
+2024/09/09 10:09:25.794639 main.go:105: [GORM] Updated author with ID: 1e5db2c8-9720-4421-baa6-2802d15e5f76
+2024/09/09 10:09:25.796387 main.go:105: [GORM] Updated author with ID: 0523169b-7138-4b3f-8912-45bb881a1149
+2024/09/09 10:09:25.797800 main.go:105: [GORM] Updated author with ID: 871cae36-e4ae-4984-94eb-14ff76506475
+2024/09/09 10:09:25.799507 main.go:105: [GORM] Updated author with ID: 47800b3a-8f1c-43f6-b6cc-b4226e3ef9d2
+2024/09/09 10:09:25.801821 main.go:105: [GORM] Updated author with ID: f8dc4907-52ad-408b-bbd0-f22c179f0e31
+2024/09/09 10:09:25.803758 main.go:105: [GORM] Updated author with ID: 66e4debd-afee-424c-982a-97a25132f1ea
+2024/09/09 10:09:25.805490 main.go:105: [GORM] Updated author with ID: 08896a90-29f7-44d5-8492-44942a7810fb
+2024/09/09 10:09:25.807112 main.go:105: [GORM] Updated author with ID: 788e9bb6-8aa9-424a-b9f2-b2416224fa48
+2024/09/09 10:09:25.808602 main.go:105: [GORM] Updated author with ID: 0ae90919-e1f9-49e2-8604-285f1d3ef932
+2024/09/09 10:09:25.810416 main.go:105: [GORM] Updated author with ID: 35ba6d75-d227-4743-854d-67f8e19231c1
+2024/09/09 10:09:25.811955 main.go:105: [GORM] Updated author with ID: 738b0c25-019d-49c4-a1ce-775b9b8af0dc
+2024/09/09 10:09:25.813335 main.go:105: [GORM] Updated author with ID: 2b590eed-b090-47d9-96c6-4dc347711242
+2024/09/09 10:09:25.815112 main.go:105: [GORM] Updated author with ID: 46c27bb9-1210-4f67-92e2-ebba4bfd66e7
+2024/09/09 10:09:25.817140 main.go:105: [GORM] Updated author with ID: ddbd6cab-47d8-4cde-b562-31f407fb983a
+2024/09/09 10:09:25.818924 main.go:105: [GORM] Updated author with ID: 6ee18f92-0dac-443f-bb5f-dc78a6c7bdc3
+2024/09/09 10:09:25.820742 main.go:105: [GORM] Updated author with ID: cab6a021-34e9-4502-929f-a9b5e1229b20
+2024/09/09 10:09:25.822347 main.go:105: [GORM] Updated author with ID: 5136134e-3f4b-4d51-87a3-61b275ae636c
+2024/09/09 10:09:25.823747 main.go:105: [GORM] Updated author with ID: 7efeda5c-1123-472d-a889-addf02c98d6f
+2024/09/09 10:09:25.825288 main.go:105: [GORM] Updated author with ID: d0cb8967-6cae-4f33-a42f-abdbf67a8619
+2024/09/09 10:09:25.826916 main.go:105: [GORM] Updated author with ID: 0fbf48af-9bd7-4674-b575-a48028ad9fb2
+2024/09/09 10:09:25.828799 main.go:105: [GORM] Updated author with ID: 26d1d650-ecd8-40d5-a9d5-677b654ebdbe
+2024/09/09 10:09:25.830465 main.go:105: [GORM] Updated author with ID: 2f91909a-2e4d-4649-9867-1fe8e66356bf
+2024/09/09 10:09:25.833105 main.go:105: [GORM] Updated author with ID: 9309fa71-87ad-4be0-bae4-55442c3213f5
+2024/09/09 10:09:25.834883 main.go:162: Operation: GetAuthor
+2024/09/09 10:09:25.834946 main.go:163:   MongoDB Duration: 99.831255ms
+2024/09/09 10:09:25.834977 main.go:164:   GORM Duration    : 153.359782ms
+2024/09/09 10:09:25.835004 main.go:165:   Difference       : 53.528527ms
+2024/09/09 10:09:25.835030 main.go:166:   Winner           : MongoDB
+2024/09/09 10:09:25.835055 main.go:167: 
+2024/09/09 10:09:25.835080 main.go:162: Operation: ListAuthors
+2024/09/09 10:09:25.835089 main.go:163:   MongoDB Duration: 1.562935ms
+2024/09/09 10:09:25.835095 main.go:164:   GORM Duration    : 1.924154ms
+2024/09/09 10:09:25.835101 main.go:165:   Difference       : 361.219µs
+2024/09/09 10:09:25.835123 main.go:166:   Winner           : MongoDB
+2024/09/09 10:09:25.835147 main.go:167: 
+2024/09/09 10:09:25.835157 main.go:162: Operation: DeleteAuthor
+2024/09/09 10:09:25.835162 main.go:163:   MongoDB Duration: 140.807431ms
+2024/09/09 10:09:25.835168 main.go:164:   GORM Duration    : 548.159448ms
+2024/09/09 10:09:25.835196 main.go:165:   Difference       : 407.352017ms
+2024/09/09 10:09:25.835222 main.go:166:   Winner           : MongoDB
+2024/09/09 10:09:25.835247 main.go:167: 
+2024/09/09 10:09:25.835272 main.go:162: Operation: UpdateAuthor
+2024/09/09 10:09:25.835296 main.go:163:   MongoDB Duration: 96.916591ms
+2024/09/09 10:09:25.835304 main.go:164:   GORM Duration    : 344.556509ms
+2024/09/09 10:09:25.835327 main.go:165:   Difference       : 247.639918ms
+2024/09/09 10:09:25.835352 main.go:166:   Winner           : MongoDB
+2024/09/09 10:09:25.835359 main.go:167: 
+2024/09/09 10:09:25.835365 main.go:162: Operation: GetAuthorsByBirthdateRange
+2024/09/09 10:09:25.835387 main.go:163:   MongoDB Duration: 671.212µs
+2024/09/09 10:09:25.835412 main.go:164:   GORM Duration    : 1.691467ms
+2024/09/09 10:09:25.835438 main.go:165:   Difference       : 1.020255ms
+2024/09/09 10:09:25.835463 main.go:166:   Winner           : MongoDB
+2024/09/09 10:09:25.835487 main.go:167: 
+2024/09/09 10:09:25.835495 main.go:162: Operation: CreateAuthor
+2024/09/09 10:09:25.835518 main.go:163:   MongoDB Duration: 98.880223ms
+2024/09/09 10:09:25.835543 main.go:164:   GORM Duration    : 337.086528ms
+2024/09/09 10:09:25.835572 main.go:165:   Difference       : 238.206305ms
+2024/09/09 10:09:25.835580 main.go:166:   Winner           : MongoDB
+2024/09/09 10:09:25.835603 main.go:167: 
+2024/09/09 10:09:25.835612 main.go:170: Summary:
+2024/09/09 10:09:25.835635 main.go:171:   Total MongoDB Time: 438.669647ms
+2024/09/09 10:09:25.835643 main.go:172:   Total GORM Time   : 1.386777888s
+2024/09/09 10:09:25.835649 main.go:174: Overall Winner: MongoDB
